@@ -1,0 +1,33 @@
+{
+  "name": "drjoannepaul",
+  "version": "1.0.0",
+  "description": "Public website for dr joanne paul in next.js and netlify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sitecorgi/drjoannepaul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sitecorgi/drjoannepaul/issues"
+  },
+  "homepage": "https://github.com/Sitecorgi/drjoannepaul#readme",
+  "dependencies": {
+    "next": "^11.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-react": "^7.14.5",
+    "frontmatter-markdown-loader": "^3.6.2"
+  }
+}
