@@ -1,11 +1,9 @@
-import PostcardImage from "../../img/jowithfalcon.jpg";
-import Image from "next/image";
 
 export default function Postcard() {
   return (
     <>
       <div className="postcard-wrapper">
-        <Image src={PostcardImage} layout="intrinsic" width="270px"></Image>
+        <img src="../../img/jowithfalcon.jpg" />
       </div>
 
       <p className="postcard-message">

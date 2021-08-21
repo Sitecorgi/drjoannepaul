@@ -1,5 +1,6 @@
 .hero-wrapper {
-    width: 55%;
+    min-width: 55%;
     border-left: 2px solid $grey-dark;
     border-right: 2px solid $grey-dark;
+    line-height: 0;
 }
