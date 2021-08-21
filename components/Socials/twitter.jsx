@@ -6,7 +6,7 @@ export default function Twitter() {
       <h2>Latest Tweets from Joanne</h2>
 
       <TwitterTimelineEmbed
-        sourceType="timeline"
+        sourceType="profile"
         userId="53579052"
         theme="light"
         options={{ height: 600 }}

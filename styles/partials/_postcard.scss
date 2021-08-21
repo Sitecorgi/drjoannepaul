@@ -2,7 +2,10 @@
     background-color:ghostwhite;
     border: 1.2rem solid ghostwhite;
     transform: rotate(5deg) translate(0px, -100px);
-    min-width: 210px;
+    max-width: 210px;
+    img {
+        width:100%;
+    }
 }
 
 .postcard-message {
