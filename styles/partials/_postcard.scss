@@ -1,0 +1,13 @@
+.postcard-wrapper {
+    background-color:ghostwhite;
+    border: 1.2rem solid ghostwhite;
+    transform: rotate(5deg) translate(0px, -100px);
+}
+
+.postcard-message {
+    transform: translate(0px, -100px);
+    color: $green-dark;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 1rem;
+}

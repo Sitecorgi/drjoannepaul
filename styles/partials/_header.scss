@@ -1,0 +1,25 @@
+@import "variables";
+
+.site-header{
+    background: rgba(225, 225, 225, 0.8);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    z-index:100;
+
+    .site-header-contents {
+        min-width: 55%;
+        h1 {
+            margin: 1.6rem 0 0 1.6rem;
+            line-height: 0.8;
+        }
+        p {
+            margin: 0 0 1.6rem 1.6rem;
+            color: $grey-md;
+            font-weight:bold;
+        }
+    }
+   
+}

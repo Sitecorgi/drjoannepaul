@@ -1,28 +1,32 @@
-import Head from "next/head"
-import { Component } from 'react'
-import { attributes, react as HomeContent } from '../content/home.md';
-
+import { Component } from "react";
+import Hero from "../components/Hero/hero";
+import Intro from "../components/Article/intro";
+import Postcard from "../components/Postcard/postcard";
+import LatestPublication from "../components/Article/latest-publication";
+import RightImage from "../components/Article/right-image";
+import Twitter from "../components/Socials/twitter";
+import {attributes, react as HomeContent} from '../content/home.md';
 export default class Home extends Component {
+
   render() {
-    let { title, cats } = attributes;
+    let {intro} = attributes;
     return (
       <>
-        <Head>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        </Head>
-        <article>
-          <h1>{title}</h1>
-          <HomeContent />
-          <ul>
-            {cats.map((cat, k) => (
-              <li key={k}>
-                <h2>{cat.name}</h2>
-                <p>{cat.description}</p>
-              </li>
-            ))}
-          </ul>
-        </article>
+        <div className="main-content">
+          <Hero />
+          <div className="two-column">
+            <div className="left">
+              <Intro content={intro} />
+              <LatestPublication/>
+              <Twitter/>
+            </div>
+            <div className="right">
+              <Postcard/>
+              <RightImage/>
+            </div>
+          </div>
+        </div>
       </>
-    )
+    );
   }
 }

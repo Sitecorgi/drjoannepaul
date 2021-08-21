@@ -1,14 +1,8 @@
 ---
-title: Awesome kitties
+title: Dr. Joanne Paul
 date: 2019-03-17T19:31:20.591Z
-cats:
-  - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
-    name: Grumpy cat (Tardar Sauce)
----
-Welcome to my awesome page about cats of the internet.
+intro: |
+  Dr Joanne Paul is Senior Lecturer in Early Modern History at the University of Sussex and an AHRC/BBC New Generation Thinker.
 
-This page is built with NextJS, and content is managed in Netlify CMS
+  Her research focuses on the history of the Renaissance and Early Modern Periods and she has shared her work widely, including with academic presses, popular magazines, blogs, and on TV and Radio. She is available for comment on any of the listed projects and related topics.
+---
