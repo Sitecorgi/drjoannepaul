@@ -1,6 +1,6 @@
 ---
 title: Dr. Joanne Paul
-date: 2019-03-17T19:31:20.591Z
+date: 2021-08-22T10:43:56.577Z
 intro: >-
   **Dr Joanne Paul is Senior Lecturer in Early Modern History at the University
   of Sussex and an AHRC/BBC New Generation Thinker.**
