@@ -1,9 +1,12 @@
 import {TwitterTimelineEmbed} from 'react-twitter-embed';
 
-export default function Twitter() {
+export default function Twitter(props) {
+
+  let {tweets} = props.attributes;
+
   return (
     <div className="article">
-      <h2>Latest Tweets from Joanne</h2>
+      <h2>{tweets}</h2>
 
       <TwitterTimelineEmbed
         sourceType="profile"
