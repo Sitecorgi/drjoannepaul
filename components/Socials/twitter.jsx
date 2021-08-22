@@ -10,7 +10,7 @@ export default function Twitter(props) {
 
       <TwitterTimelineEmbed
         sourceType="profile"
-        userId='53579052'
+        userId={53579052}
         theme="light"
         options={{ height: 600 }}
         noScrollbar

@@ -20,6 +20,50 @@
             color: $grey-md;
             font-weight:bold;
         }
+
+        @media(max-width: $laptopL){
+            min-width: 75%;
+
+            h1 {
+                margin: 1.4rem 0 0 1.4rem;
+                line-height: 0.6;
+            }
+            p {
+                margin: 0 0 1.4rem 1.4rem;
+                color: $grey-md;
+                font-weight:bold;
+            }
+        }
+
+        @media(max-width: $laptop){
+            min-width: 80%;
+
+            h1 {
+                margin: 1.2rem 0 0 1.2rem;
+                line-height: 0.6;
+            }
+            p {
+                margin: 0 0 1.2rem 1.2rem;
+                color: $grey-md;
+                font-weight:bold;
+            }
+        }
+
+        @media(max-width: $tablet){
+            min-width: 80%;
+
+            h1 {
+                margin: 0.8rem 0 0 0.8rem;
+                line-height: 0.6;
+            }
+            p {
+                margin: 0 0 0.8rem 0.8rem;
+                color: $grey-md;
+                font-weight:bold;
+            }
+        }
+
+
     }
    
 }

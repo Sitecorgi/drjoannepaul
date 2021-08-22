@@ -1,6 +1,12 @@
 .article {
     margin: 3rem 6rem;
+    @media (max-width: $laptopL) {
+        margin: 3rem 4rem;
+    } 
 
+    @media (max-width: $laptop) {
+        margin: 2rem 2rem;
+    } 
     p {
         margin: 0 0 2rem 0;
     }
