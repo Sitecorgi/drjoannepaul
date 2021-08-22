@@ -6,7 +6,6 @@ import LatestPublication from "../components/Article/latest-publication";
 import RightImage from "../components/Article/right-image";
 import Twitter from "../components/Socials/twitter";
 import {attributes, react as HomeContent} from '../content/home.md';
-import {attributes as LatestPublicationAttributes, react as LatestPublicationContent} from '../content/LatestPublication.md';
 
 export default class Home extends Component {
 
@@ -18,7 +17,6 @@ export default class Home extends Component {
           <div className="two-column">
             <div className="left">
               <Intro content={<HomeContent/>} />
-              <LatestPublication attributes={LatestPublicationAttributes} content={<LatestPublicationContent/>} />
               <Twitter attributes={attributes} />
             </div>
             <div className="right">
