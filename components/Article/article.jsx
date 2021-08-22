@@ -1,4 +1,4 @@
-export default function Intro(props) {
+export default function Article(props) {
   return (
     <div className="article">    
       {props.content}   

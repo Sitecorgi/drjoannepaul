@@ -6,7 +6,7 @@
     flex-direction: column;
     align-items: center;
 
-    .two-column {
+    .content-column {
         width: 55%;
 
         @media (max-width: $laptopL) {
@@ -16,7 +16,7 @@
         @media(max-width: $laptop){
             min-width: 80%;
         }
-        
+
         display: flex;
         flex-direction: row;
         justify-content: space-around;
