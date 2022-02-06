@@ -1,49 +1,98 @@
 @import "variables";
 
 .global-nav {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  a {
+    line-height: 1;
+    font-size: 1rem;
+    margin: 0.5rem;
+    font-family: "Montserrat", "sans-serif";
+    color: $grey-dark;
+    font-weight: bold;
+
+    &:hover {
+      color: $green-bg;
+    }
+    &:active {
+      color: $green-dark;
+    }
+  }
+
+  @media (max-width: $laptop) {
+    a {
+      line-height: 0.6;
+      font-size: 1rem;
+      margin: 0.2rem;
+    }
+  }
+
+  @media (max-width: $phone) {
+    display: none;
+    a {
+      line-height: 0.8;
+      font-size: 0.8rem;
+      margin: 0.2rem;
+    }
+  }
+}
+
+.mobile-menu {
+  display: none;
+
+  @media (max-width: $phone) {
     display: flex;
     flex-direction: column;
-    align-content: flex-end;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    padding: 0.5rem;
 
-    a {
-        line-height: 1;
-        font-size:1rem;
-        margin: 0.5rem;
-        font-family: "Montserrat", "sans-serif";
-        color: $grey-dark;
-        font-weight:bold;
-        
-        &:hover {
-            color: $green-bg;
-        }
-        &:active {
-            color: $green-dark;
-        }
-    
+    button {
+      background-color: transparent;
+      outline: none;
+      border: none;
     }
 
-    @media (max-width: $laptop) {
-        a {
-            line-height: 0.6;
-            font-size:1rem;
-            margin: 0.2rem;
-            font-family: "Montserrat", "sans-serif";
-            color: $grey-dark;
-            font-weight:bold;
-            
-            &:hover {
-                color: $green-bg;
-            }
-            &:active {
-                color: $green-dark;
-            }
-        
-        }
-      }
+    i.fa.fa-bars {
+      color: $grey-dark;
+      font-size: 2.5rem;
 
-    @media (max-width: $tablet) {
-        display: none;
+      &:hover {
+        color: $grey-md;
       }
+    }
+  }
+}
+
+.global-mobile-nav {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  min-width: 80%;
+
+  a {
+    line-height: 0.8;
+    font-size: 0.8rem;
+    margin: 0.2rem;
+    font-family: "Montserrat", "sans-serif";
+    color: $grey-dark;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      color: $green-bg;
+    }
+    &:active {
+      color: $green-dark;
+    }
+  }
+
+  @media (min-width: $tablet) {
+    display: none;
+  }
 }

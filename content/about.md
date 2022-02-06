@@ -7,7 +7,7 @@ date: 2021-03-17T19:31:20.591Z
 
 ### Dr Joanne Paul, BA, MA, PhD (Queen Mary, University of London) is an acclaimed historian who has published her research on the Renaissance and Early Modern periods widely. ###
 
-<p align="center"><img src="img/jocastle.jpg" /></p>
+<p align="center"><img src="img/jocastle.jpg" style={{"maxWidth" : "100%"}} /></p>
 
 Her work focuses on the political, intellectual and cultural history of the Renaissance and Early Modern periods, with an attention to Tudor and Stuart England. She has published on themes such as counsel and time, and figures including [Thomas More]("https://www.amazon.co.uk/d/cka/Thomas-More-Classic-Thinkers-Joanne-Paul/0745692176/ref=sr_1_1?ie=UTF8&qid=1499341472&sr=8-1&keywords=joanne+paul"), William Shakespeare and Thomas Hobbes. Her first trade book, [The House of Dudley]("https://www.penguin.co.uk/books/309/309209/the-house-of-dudley/9780241349823.html"), is published in March 2022 by Michael Joseph (Penguin). 
 
