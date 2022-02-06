@@ -24,23 +24,23 @@ collections:
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
     - label: "Contact"
-        name: "contact"
-        file: "content/contact.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string"}
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown"}
+      name: "contact"
+      file: "content/contact.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown"}
     - label: "Publications"
-        name: "publications"
-        file: "content/publications.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string"}
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown"}
+      name: "publications"
+      file: "content/publications.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown"}
     - label: "Consultancy"
-        name: "consultancy"
-        file: "content/consultancy.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string"}
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown"}
+      name: "consultancy"
+      file: "content/consultancy.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Body", name: "body", widget: "markdown"}
