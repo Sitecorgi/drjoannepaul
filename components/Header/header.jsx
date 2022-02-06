@@ -1,16 +1,18 @@
 import Link from "next/link";
+import NavBar from "../NavBar/NavBar";
 
 export default function Header() {
   return (
     <header className="site-header">
-      <Link href="/">
-        <div className="site-header-contents">
+      <div className="site-header-contents">
+        <Link href="/">
           <a>
             <h1>Dr Joanne Paul</h1>
             <p>RENAISSANCE HISTORIAN</p>
           </a>
-        </div>
-      </Link>
+        </Link>
+        <NavBar />
+      </div>
     </header>
   );
 }

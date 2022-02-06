@@ -1,7 +1,7 @@
 export default function Copyright() {
     return (
         <div className="copyright">
-            <p>©2021 Joanne Paul</p>
+            <p>©2022 Joanne Paul</p>
         </div>
     )
 }

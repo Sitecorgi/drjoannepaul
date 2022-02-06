@@ -15,6 +15,42 @@
         text-align: center;
     }
 
+    figure {
+        margin: 3rem;
+        blockquote {
+            font-family: "Montserrat", "sans-serif";
+            color: $grey-dark;
+            font-size: 1.6rem;
+            line-height: 1.8;
+            list-style: initial;
+            margin: 0 0 0.5rem 0;
+           
+            @media (max-width: $laptop) {
+              font-size: 1.4rem;
+            }
+          
+            @media (max-width: $tablet) {
+              font-size: 1rem;
+            }
+        }
+    
+        figcaption {
+            font-family: "Montserrat", "sans-serif";
+            color: $grey-dark;
+            font-size: 1rem;
+            line-height: 1;
+            list-style: initial;
+           
+            @media (max-width: $laptop) {
+              font-size: 1rem;
+            }
+          
+            @media (max-width: $tablet) {
+              font-size: 0.8rem;
+            }
+        }
+    }
+    
 }
 
 .video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
