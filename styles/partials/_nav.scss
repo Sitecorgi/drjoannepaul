@@ -25,19 +25,14 @@
 
   @media (max-width: $laptop) {
     a {
-      line-height: 0.6;
+      line-height: 1;
       font-size: 1rem;
-      margin: 0.2rem;
+      margin: 0.3rem;
     }
   }
 
   @media (max-width: $phone) {
     display: none;
-    a {
-      line-height: 0.8;
-      font-size: 0.8rem;
-      margin: 0.2rem;
-    }
   }
 }
 
@@ -56,7 +51,7 @@
       border: none;
     }
 
-    i.fa.fa-bars {
+    i.fa.fa-bars, i.fa.fa-times {
       color: $grey-dark;
       font-size: 2.5rem;
 
@@ -71,9 +66,9 @@
   display: flex;
   flex-direction: row;
   align-content: flex-end;
-  flex-wrap: wrap;
   justify-content: space-evenly;
   min-width: 80%;
+  padding: 1rem 0;
 
   a {
     line-height: 0.8;

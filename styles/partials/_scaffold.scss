@@ -23,8 +23,13 @@
         background-color: $grey-light;
         border-left: 2px solid $grey-dark;
         border-right: 2px solid $grey-dark;
+        
         .left {
             width: 75%;
+
+            @media(max-width: $tablet){
+                width: 100%;
+            }
         }
 
         .right {

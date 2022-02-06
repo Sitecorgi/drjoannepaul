@@ -34,7 +34,7 @@ export default function Header() {
       </nav>
       <div className="mobile-menu">
         <button href="" className="icon" onClick={() => clickMenu()}>
-          <i className="fa fa-bars"></i>
+        { showNav ? <i className="fa fa-times"></i> : <i className="fa fa-bars"></i> }
         </button>
       </div>      
       </div>
