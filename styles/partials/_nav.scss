@@ -2,14 +2,14 @@
 
 .global-nav {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-content: flex-end;
   flex-wrap: wrap;
   justify-content: space-evenly;
 
   a {
     line-height: 1;
-    font-size: 1rem;
+    font-size: 1.4rem;
     margin: 0.5rem;
     font-family: "Montserrat", "sans-serif";
     color: $grey-dark;
@@ -23,12 +23,15 @@
     }
   }
 
-  @media (max-width: $laptop) {
+  @media (max-width: $laptopL) {
     a {
       line-height: 1;
       font-size: 1rem;
       margin: 0.3rem;
     }
+  }
+  @media (max-width: $laptop) {
+    flex-direction: column;
   }
 
   @media (max-width: $phone) {
