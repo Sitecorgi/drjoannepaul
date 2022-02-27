@@ -6,6 +6,8 @@ export default function Header() {
 
   const clickMenu = () => showNav ? setShowNav(false) : setShowNav(true);
 
+  const clickMenu2 = () => console.log("clicked");
+
   return (
     <header className="site-header">
       <div className="site-header-contents">
@@ -40,20 +42,20 @@ export default function Header() {
       </div>
       { showNav ? 
       <nav className="global-mobile-nav">
-        <Link href="/">
-          <a>HOME</a>
+        <Link href="/" >
+          <a onClick={() => clickMenu()}>HOME</a>
         </Link>
         <Link href="/about">
-          <a>ABOUT</a>
+          <a onClick={() => clickMenu()}>ABOUT</a>
         </Link>
         <Link href="/publications">
-          <a>PUBLICATIONS</a>
+          <a onClick={() => clickMenu()}>PUBLICATIONS</a>
         </Link>
         <Link href="/consultancy">
-          <a>CONSULTANCY</a>
+          <a onClick={() => clickMenu()}>CONSULTANCY</a>
         </Link>
         <Link href="/contact">
-          <a>CONTACT</a>
+          <a onClick={() => clickMenu()}>CONTACT</a>
         </Link>
       </nav> : null }
     </header>

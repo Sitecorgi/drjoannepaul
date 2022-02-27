@@ -65,6 +65,7 @@
 
 .global-mobile-nav {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   align-content: flex-end;
   justify-content: space-evenly;
