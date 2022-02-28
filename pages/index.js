@@ -5,12 +5,16 @@ import Postcard from "../components/Postcard/postcard";
 import RightImage from "../components/Article/right-image";
 import Twitter from "../components/Socials/twitter";
 import {attributes, react as HomeContent} from '../content/home.md';
+import Head from 'next/head';
 
 export default class Home extends Component {
 
   render() {
     return (
       <>
+        <Head>
+          <title>Dr Joanne Paul</title>
+        </Head>
         <div className="main-content">
           <Hero />
           <div className="content-column">
