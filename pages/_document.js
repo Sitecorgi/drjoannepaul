@@ -10,17 +10,14 @@ class OverideDocument extends Document {
     return (
       <Html>
         <Head>
-          <Script
-            async
-            src="https://www.googletagmanager.com/gtag/js?id=UA-54770192-1"
-          ></Script>
-        <script
+          <script src="https://www.googletagmanager.com/gtag/js?id=UA-54770192-1"></script>
+          <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', '54770192-1', { page_path: window.location.pathname });
+              gtag('config', 'UA-54770192-1', { page_path: window.location.pathname });
             `,
           }}
         />
