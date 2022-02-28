@@ -13,7 +13,8 @@ export default class Home extends Component {
     return (
       <>
         <Head>
-          <title>Dr Joanne Paul</title>
+        <title>{attributes.title}</title>
+        <meta name="description" content={attributes.description}></meta>
         </Head>
         <div className="main-content">
           <Hero />

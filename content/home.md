@@ -1,5 +1,6 @@
 ---
-title: Dr. Joanne Paul
+title: Dr Joanne Paul
+description: Dr Joanne Paul is a writer, historian and broadcaster working on the history of the Renaissance, Tudor and Early Modern Periods.
 date: 2019-03-17T19:31:20.591Z
 tweets: Latest Tweets from Joanne
 about: Dr Joanne Paul, BA, MA, PhD (Queen Mary, University of London)

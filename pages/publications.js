@@ -10,7 +10,8 @@ export default class Publications extends Component {
       return (
         <>
         <Head>
-          <title>Dr Joanne Paul | Publications</title>
+        <title>Dr Joanne Paul | {attributes.title}</title>
+        <meta name="description" content={attributes.description}></meta>
         </Head>
           <div className="main-content">
             <Hero />

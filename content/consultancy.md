@@ -1,5 +1,6 @@
 ---
 title: Consultancy
+description: Dr Joanne Paul consultancy
 date: 2021-03-17T19:31:20.591Z
 ---
 

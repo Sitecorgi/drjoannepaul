@@ -10,7 +10,8 @@ export default class Contact extends Component {
       return (
         <>
         <Head>
-          <title>Dr Joanne Paul | Contact</title>
+        <title>Dr Joanne Paul | {attributes.title}</title>
+        <meta name="description" content={attributes.description}></meta>
         </Head>
           <div className="main-content">
             <Hero />

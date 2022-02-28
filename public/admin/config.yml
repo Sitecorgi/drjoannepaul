@@ -12,6 +12,7 @@ collections:
       file: "content/home.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
+        - { label: "Description", name: "description", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Tweets", name: "tweets", widget: "string" }
         - { label: "About", name: "about", widget: "text" }
@@ -21,6 +22,7 @@ collections:
       file: "content/about.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
+        - { label: "Description", name: "description", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
     - label: "Contact"
@@ -28,6 +30,7 @@ collections:
       file: "content/contact.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
+        - { label: "Description", name: "description", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
     - label: "Publications"
@@ -35,6 +38,7 @@ collections:
       file: "content/publications.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
+        - { label: "Description", name: "description", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
     - label: "Consultancy"
@@ -42,5 +46,6 @@ collections:
       file: "content/consultancy.md"
       fields:
         - { label: "Title", name: "title", widget: "string"}
+        - { label: "Description", name: "description", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
