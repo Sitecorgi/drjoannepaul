@@ -1,7 +1,7 @@
 .postcard-wrapper {
     background-color:ghostwhite;
     border: 1.2rem solid ghostwhite;
-    transform: rotate(5deg) translate(0px, -100px);
+    transform: rotate(5deg) translate(0px, -50px);
     max-width: 210px;
     img {
         width:100%;
@@ -9,7 +9,7 @@
 }
 
 .postcard-message {
-    transform: translate(0px, -80px);
+    transform: translate(0px, -50px);
     color: $green-dark;
     font-size: 1.3rem;
     line-height: 1.5;
