@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import Script from "next/script";
-import * as ga from '../services/ga';
 
 class OverideDocument extends Document {
   static async getInitialProps(ctx) {
