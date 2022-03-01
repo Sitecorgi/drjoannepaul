@@ -1,5 +1,7 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import Script from "next/script";
+import * as ga from '../services/ga';
+
 class OverideDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx);
@@ -10,14 +12,14 @@ class OverideDocument extends Document {
     return (
       <Html>
         <Head>
-          <script src="https://www.googletagmanager.com/gtag/js?id=UA-54770192-1"></script>
+          <script src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}></script>
           <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'UA-54770192-1', { page_path: window.location.pathname });
+              gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', { page_path: window.location.pathname });
             `,
           }}
         />
