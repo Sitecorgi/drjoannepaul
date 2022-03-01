@@ -17,7 +17,8 @@ export default class Home extends Component {
         <meta name="description" content={attributes.description}></meta>
         </Head>
         <div className="main-content">
-          <Hero />
+          <Hero display="desktop" url={"cover.jpg"}/>
+          <Hero display="mobile" url={"jo_headshot2.jpeg"}/>
           <div className="content-column">
             <div className="left">
               <Article content={<HomeContent/>} />
