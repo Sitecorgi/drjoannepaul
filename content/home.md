@@ -15,7 +15,7 @@ She has shared her work widely, including with academic and trade presses, popul
 
 ### The House of Dudley,  *a New History of Tudor England*
 
-**Told for the very first time is the true story of the secret royal family, The Dudley's - [Pre-order now](https://www.penguin.co.uk/books/309/309209/the-house-of-dudley/9780241349823.html)** 
+**Told for the very first time is the true story of the secret royal family, The Dudleys - [Pre-order now](https://www.penguin.co.uk/books/309/309209/the-house-of-dudley/9780241349823.html)** 
 
 Each Tudor monarch made their name with a Dudley by their side - or by crushing one beneath their feet. The Dudleys thrived at the court of Henry VII, but were sacrificed to the popularity of Henry VIII. Rising to prominence in the reign of Edward VI, the Dudleys lost it all by advancing Jane Grey to the throne over Mary I. Under Elizabeth I, the family were once again at the centre of power, and would do anything to remain there...
 

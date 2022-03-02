@@ -20,6 +20,11 @@ With three generations of felled favourites, what was it that caused this family
 ##### Praise for _The House of Dudley_ #####
 
 <figure>
+<blockquote>'This is riveting stuff: death, desire, power and scandal. Paul has made the most of it, producing a well written and historically grounded page-turner, suitable for adaptation as a television miniseries. And why not? Game of Thrones looks tame compared with the real-life machinations of the Dudleys and the Tudors. House of Dudley anyone?'</blockquote>
+<figcaption>— Dr Elizabeth Goldring, <a href="https://www.spectator.co.uk/article/the-machinations-of-the-dudleys-make-game-of-thrones-look-tame" target="__blank">Spectator</a></figcaption>
+</figure>
+
+<figure>
 <blockquote>'Brimming with power struggles, ambition and intrigue, this is the untold story of one of the most notorious families of the Tudor era. A spectacular achievement'</blockquote>
 <figcaption>— Dr Nicola Tallis</figcaption>
 </figure>
