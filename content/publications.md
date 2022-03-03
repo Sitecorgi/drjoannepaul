@@ -29,6 +29,11 @@ With three generations of felled favourites, what was it that caused this family
 <figcaption>— Dr Nicola Tallis</figcaption>
 </figure>
 
+<figure>
+<blockquote>'Absorbing, meticulously researched and expertly executed. A tale of intrigue and manipulation that will lead you through the very dark corridors of Tudor history'</blockquote>
+<figcaption>— Dr Lindsey Fitzharris</figcaption>
+</figure>
+
 ---
 
 #### Counsel and Command in Early Modern English Thought ####
