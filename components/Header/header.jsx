@@ -27,6 +27,9 @@ export default function Header() {
         <Link href="/publications">
           <a>PUBLICATIONS</a>
         </Link>
+        <Link href="/events">
+          <a>EVENTS</a>
+        </Link>
         <Link href="/consultancy">
           <a>CONSULTANCY</a>
         </Link>
@@ -50,6 +53,9 @@ export default function Header() {
         </Link>
         <Link href="/publications">
           <a onClick={() => clickMenu()}>PUBLICATIONS</a>
+        </Link>
+        <Link href="/events">
+          <a onClick={() => clickMenu()}>EVENTS</a>
         </Link>
         <Link href="/consultancy">
           <a onClick={() => clickMenu()}>CONSULTANCY</a>

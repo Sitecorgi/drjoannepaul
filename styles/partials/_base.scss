@@ -17,6 +17,17 @@ h6 {
 h1 {
   font-size: 3.5rem;
 
+  a {
+    text-decoration: none;
+    color: $green-dark;
+
+    &:hover,
+    active,
+    visited {
+      color: $green-bg;
+    }
+  }
+
   @media (max-width: $laptop) {
     font-size: 2.5rem;
   }
@@ -30,6 +41,17 @@ h2 {
   font-size: 2.5rem;
   color: $grey-dark;
   margin: 2rem 0;
+
+  a {
+    text-decoration: none;
+    color: $green-dark;
+
+    &:hover,
+    active,
+    visited {
+      color: $green-bg;
+    }
+  }
 
   @media (max-width: $laptop) {
     font-size: 2rem;
@@ -46,7 +68,18 @@ h3 {
   font-size: 1.5rem;
   font-weight: bold;
   line-height: 1.5;
-  margin: 2rem 0;
+  margin: 1rem 0;
+
+  a {
+    text-decoration: none;
+    color: $green-dark;
+
+    &:hover,
+    active,
+    visited {
+      color: $green-bg;
+    }
+  }
 
   @media (max-width: $laptop) {
     font-size: 1.5rem;
@@ -63,6 +96,18 @@ h4 {
   font-size: 1.6rem;
   font-weight: bold;
   line-height: 1.6;
+  margin: 1rem 0;
+
+  a {
+    text-decoration: none;
+    color: $green-dark;
+
+    &:hover,
+    active,
+    visited {
+      color: $green-bg;
+    }
+  }
 
   @media (max-width: $laptop) {
     font-size: 1.2rem;
@@ -79,7 +124,18 @@ h5 {
   font-size: 1.5rem;
   font-weight: bold;
   line-height: 1.6;
+  margin: 1rem 0;
 
+  a {
+    text-decoration: none;
+    color: $green-dark;
+
+    &:hover,
+    active,
+    visited {
+      color: $green-bg;
+    }
+  }
   @media (max-width: $laptop) {
     font-size: 1rem;
   }
