@@ -21,22 +21,22 @@ A TIMES 'BOOK OF 2022' AND BOOK OF THE WEEK
 
 <figure>
 <blockquote>'Exciting and immersive. An immensely entertaining history, capturing in full Tudor brilliance the cut-throat glamour of the English throne and the most audacious family to play its game.'</blockquote>
-<figcaption>— The Sunday Times</a></figcaption>
+<figcaption>— The Sunday Times</figcaption>
 </figure>
 
 <figure>
 <blockquote>'Rich and compelling. Conjures up the look and feel of Tudor life . . . You will find yourself drawn in, fascinated, and richly informed'</blockquote>
-<figcaption>— Telegraph</a></figcaption>
+<figcaption>— Telegraph</figcaption>
 </figure>
 
 <figure>
 <blockquote>'Breathes new life into an old and familiar Tudor story . . . It's delightful, a joy to read'</blockquote>
-<figcaption>— The Times</a></figcaption>
+<figcaption>— The Times</figcaption>
 </figure>
 
 <figure>
 <blockquote>'This is riveting stuff: death, desire, power and scandal. Paul has made the most of it, producing a well written and historically grounded page-turner, suitable for adaptation as a television miniseries.'</blockquote>
-<figcaption>— Spectator</a></figcaption>
+<figcaption>— Spectator</figcaption>
 </figure>
 
 <figure>
