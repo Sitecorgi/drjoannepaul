@@ -43,9 +43,8 @@ Details and tickets tbc
 
 ### [Guildford Book Festival](http://www.guildfordbookfestival.co.uk/)
 
-10:40
-
-2 October 
+10:40\
+2 October 2022
 
 <br/>
 
@@ -53,9 +52,8 @@ Details and tickets tbc
 
 ### [Ilkley Literature Festival](https://www.ilkleyliteraturefestival.org.uk/)
 
-15:30
-
-9 October 
+15:30\
+9 October 2022
 
 <br/>
 
