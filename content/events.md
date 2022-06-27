@@ -11,6 +11,8 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 <br/>
 
+- - -
+
 ### [Richmond and Twickenham Historical Association](https://www.history.org.uk/branches/resource/1138/richmond-twickenham-branch-programme)
 
 20:00\
