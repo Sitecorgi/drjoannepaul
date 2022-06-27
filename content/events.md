@@ -34,7 +34,7 @@ Royal Hospital Chelsea State Apartments
 
 ### [Warwick Words History Festival](https://warwickwords.co.uk/)
 
-10:30
+10:30\
 6 October 2022
 
 St. Mary's Church, Warwick
@@ -65,7 +65,7 @@ West Horsley Place
 
 ### [Battle and District Historical Society](https://battlehistorysociety.com/Programme/)
 
-19:30
+19:30\
 15 June 2023
 
 Wynne Room at the Battle Memorial Hall
