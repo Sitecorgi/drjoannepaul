@@ -26,6 +26,8 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 24 September 2022
 
+Royal Hospital Chelsea State Apartments
+
 <br/>
 
 - - -
@@ -45,6 +47,8 @@ St. Mary's Church, Warwick
 
 10:40\
 2 October 2022
+
+West Horsley Place
 
 <br/>
 
