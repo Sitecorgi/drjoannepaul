@@ -35,8 +35,6 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 St. Mary's Church, Warwick
 
-Details and tickets tbc
-
 <br/>
 
 - - -
