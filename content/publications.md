@@ -98,6 +98,6 @@ Paul's book serves as an essential foundation for any student encountering More'
 
 - - -
 
- You can find a full list of publications on [Google Scholar](https://scholar.google.co.uk/citations?user=ao78iA4AAAAJ&hl=en). Links to articles and interviews are [here](https://www.joannepaul.com/links). 
+ You can find a full list of publications on [Google Scholar](https://scholar.google.co.uk/citations?user=ao78iA4AAAAJ&hl=en). 
 
 - - -
