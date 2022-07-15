@@ -13,7 +13,7 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 - - -
 
-### [Richmond and Twickenham Historical Association](https://www.history.org.uk/branches/resource/1138/richmond-twickenham-branch-programme)
+### [Richmond and Twickenham Historical Association](https://www.history.org.uk/events/calendar/7838/the-house-of-dudley)
 
 20:00\
 22 September 2022 
@@ -22,7 +22,7 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 - - -
 
-### [](https://warwickwords.co.uk/)[Chelsea History Festival](https://www.chelseahistoryfestival.com/)
+### [](https://chelseahistoryfestival.com/events/the-house-of-dudley/)[Chelsea History Festival](https://chelseahistoryfestival.com/events/the-house-of-dudley/)
 
 24 September 2022
 
@@ -32,7 +32,7 @@ Royal Hospital Chelsea State Apartments
 
 - - -
 
-### [Warwick Words History Festival](https://warwickwords.co.uk/)
+### [Warwick Words History Festival](https://warwickwords.co.uk/index.php/event/2022/90-thursday-6-october-2022/321-joanne-paul)
 
 10:30\
 6 October 2022
@@ -43,7 +43,7 @@ St. Mary's Church, Warwick
 
 - - -
 
-### [Guildford Book Festival](http://www.guildfordbookfestival.co.uk/)
+### [Guildford Book Festival](http://www.guildfordbookfestival.co.uk/history-day)
 
 10:40\
 2 October 2022
