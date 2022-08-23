@@ -11,7 +11,7 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 <br/>
 
-## <center> AUTUMN TOUR ANNOUNCED! 
+## <center> AUTUMN TOUR ANNOUNCED! </center>
 
 See links below to purchase tickets.
 
