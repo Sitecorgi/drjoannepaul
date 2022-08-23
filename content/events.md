@@ -11,6 +11,14 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 <br/>
 
+## <center> AUTUMN TOUR ANNOUNCED! 
+
+See links below to purchase tickets.
+
+![](img/twitter-copy.jpg)
+
+<br/>
+
 - - -
 
 ### [Richmond and Twickenham Historical Association](https://www.history.org.uk/events/calendar/7838/the-house-of-dudley)
@@ -27,6 +35,16 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 24 September 2022
 
 Royal Hospital Chelsea State Apartments
+
+<br/>
+
+- - -
+
+### [](https://www.waterstones.com/events/an-evening-wtih-joanne-paul-and-estelle-paranque/cambridge)[An Evening with Joanne Paul and Estelle Paranque](https://www.waterstones.com/events/an-evening-wtih-joanne-paul-and-estelle-paranque/cambridge)
+
+28 September 2022
+
+Waterstones, Cambridge 
 
 <br/>
 
