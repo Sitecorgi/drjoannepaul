@@ -72,7 +72,7 @@ West Horsley Place
 
 - - -
 
-### [Ilkley Literature Festival](https://www.ilkleyliteraturefestival.org.uk/)
+### [Ilkley Literature Festival](ilkleyliteraturefestival.org.uk/events/22-joanne-paul-the-house-of-dudley)
 
 15:30\
 9 October 2022
