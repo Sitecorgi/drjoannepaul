@@ -12,9 +12,10 @@ export default function Twitter(props) {
         sourceType="profile"
         userId={53579052}
         theme="light"
-        options={{ height: 600 }}
+        options={{ height: 300 }}
         noScrollbar
         transparent
+        tweetLimit={3}
       />
     </div>
   );
