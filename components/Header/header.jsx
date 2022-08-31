@@ -6,8 +6,6 @@ export default function Header() {
 
   const clickMenu = () => showNav ? setShowNav(false) : setShowNav(true);
 
-  const clickMenu2 = () => console.log("clicked");
-
   return (
     <header className="site-header">
       <div className="site-header-contents">

@@ -24,12 +24,15 @@
   }
 
   @media (max-width: $desktop) {
-    flex-direction: column;
+    
     a {
       line-height: 1;
       font-size: 1rem;
       margin: 0.3rem;
     }
+  }
+  @media(max-width: $laptop-l){
+    flex-direction: column;
   }
  
   @media (max-width: $phone) {
