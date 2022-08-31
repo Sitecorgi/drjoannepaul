@@ -61,7 +61,18 @@
       }
     }
   }
+
+  iframe {
+    margin: auto;
+    display: block;
+  }
+  
+  img {
+    max-width: 100%;
+  }
 }
+
+
 
 .video-container {
   position: relative;
