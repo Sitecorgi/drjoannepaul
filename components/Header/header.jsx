@@ -1,14 +1,30 @@
 import Link from "next/link";
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 export default function Header() {
 
-  const [showNav, setShowNav] = React.useState(false);
+  const [showMobileNav, setShowMobileNav] = React.useState(false);
 
-  const clickMenu = () => showNav ? setShowNav(false) : setShowNav(true);
+  const clickMenu = () => showMobileNav ? setShowMobileNav(false) : setShowMobileNav(true);
 
+  const [showNav, setShowNav] = useState(true);
+  const controlNavBar = () => {
+    if(window.scrollY > 200){
+      setShowNav(false);
+    } else {
+      setShowNav(true);
+    }
+  }
+
+  useEffect(() => {
+    window.addEventListener('scroll', controlNavBar)
+    return () => {
+      window.removeEventListener('scroll', controlNavBar)
+    }
+  }, [])
+  
   return (
-    <header className="site-header">
-      <div className="site-header-contents">
+    <header className={ `transition-header ${showNav && 'site-header'}`}>
+      <div className={`site-header-contents`}>
         <Link href="/">
           <a>
             <h1>Dr Joanne Paul</h1>
@@ -37,11 +53,11 @@ export default function Header() {
       </nav>
       <div className="mobile-menu">
         <button href="" className="icon" onClick={() => clickMenu()}>
-        { showNav ? <i className="fa fa-times"></i> : <i className="fa fa-bars"></i> }
+        { showMobileNav ? <i className="fa fa-times"></i> : <i className="fa fa-bars"></i> }
         </button>
       </div>      
       </div>
-      { showNav ? 
+      { showMobileNav ? 
       <nav className="global-mobile-nav">
         <Link href="/" >
           <a onClick={() => clickMenu()}>HOME</a>

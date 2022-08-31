@@ -1,14 +1,27 @@
 @import "variables";
 
-.site-header {
-  background: rgba(225, 225, 225, 0.8);
+.transition-header {
+  transition: 0.5s;
+  transition-timing-function: ease-in;
   position: fixed;
   top: 0;
   width: 100%;
+
+  &.false {
+    .site-header-contents {
+      visibility: hidden;
+    }
+  }
+}
+
+
+.site-header {
+  background: rgba(225, 225, 225, 0.8);
   display: flex;
   flex-direction: column;
   align-items:center;
   z-index: 100;
+
 
   .site-header-contents {
     display: flex;
