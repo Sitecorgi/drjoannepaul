@@ -4,6 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <style>
+    /* fixes editor issues - remove after netlify-cms issue 5902 is fixed – https://github.com/netlify/netlify-cms/issues/5902 */
+    [data-slate-editor] {
+      -webkit-user-modify: read-write !important;
+    }
+  </style>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
