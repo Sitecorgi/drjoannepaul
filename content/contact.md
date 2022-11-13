@@ -13,7 +13,7 @@ Adam Gauntlett (literary agent):
 Tris Payne (media agent): 
 
 * Email: [tpayne@pfd.co.uk](mailto:tpayne@pfd.co.uk)
-* Telephone: 020 7344 1011 [](tel:+44(0)2073441011)
+* Telephone: 020 7344 1011
 
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1667811");</style>
 
