@@ -11,71 +11,20 @@ Joanne gives various talks throughout the year. To arrange a speaking event, use
 
 <br/>
 
-## <center> AUTUMN TOUR ANNOUNCED! </center>
+## <center> UPCOMING EVENTS </center>
 
 See links below to purchase tickets.
 
-![](img/twitter-copy.jpg)
-
 <br/>
 
 - - -
 
-### [Richmond and Twickenham Historical Association](https://www.history.org.uk/events/calendar/7838/the-house-of-dudley)
-
-20:00\
-22 September 2022 
-
-<br/>
-
-- - -
-
-### [](https://chelseahistoryfestival.com/events/the-house-of-dudley/)[Chelsea History Festival](https://chelseahistoryfestival.com/events/the-house-of-dudley/)
-
-24 September 2022
-
-Royal Hospital Chelsea State Apartments
-
-<br/>
-
-- - -
-
-### [](https://www.waterstones.com/events/an-evening-wtih-joanne-paul-and-estelle-paranque/cambridge)[An Evening with Joanne Paul and Estelle Paranque](https://www.waterstones.com/events/an-evening-wtih-joanne-paul-and-estelle-paranque/cambridge)
-
-28 September 2022
-
-Waterstones, Cambridge 
-
-<br/>
-
-- - -
-
-### [Warwick Words History Festival](https://warwickwords.co.uk/index.php/event/2022/90-thursday-6-october-2022/321-joanne-paul)
-
-10:30\
-6 October 2022
-
-St. Mary's Church, Warwick
-
-<br/>
-
-- - -
-
-### [Guildford Book Festival](http://www.guildfordbookfestival.co.uk/history-day)
-
-10:40\
-2 October 2022
-
-West Horsley Place
-
-<br/>
-
-- - -
-
-### [Ilkley Literature Festival](ilkleyliteraturefestival.org.uk/events/22-joanne-paul-the-house-of-dudley)
+### [Roundtable Course: The House of Dudley](https://www.roundtable.org/class/course/the-house-of-dudley-a-new-history-of-tudor-england)
 
 15:30\
-9 October 2022
+24 October - 21 November
+
+online only 
 
 <br/>
 
