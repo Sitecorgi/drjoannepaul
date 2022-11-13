@@ -8,7 +8,7 @@ about: Dr Joanne Paul, BA, MA, PhD (Queen Mary, University of London)
 ---
 ### Dr Joanne Paul is a writer, historian and broadcaster working on the history of the Renaissance, Tudor and Early Modern Periods.
 
-She has shared her work widely, including with academic and trade presses, popular magazines and blogs and on TV and radio. She is available for comment on any of the listed projects and related topics. Please use the [contact page to get in touch]("https://joannepaul.com/contact"). Read more [here]("https://joannepaul.com/about"). 
+She has shared her work widely, including with academic and trade presses, popular magazines and blogs and on TV and radio. She is available for comment on any of the listed projects and related topics. Please use the [contact page to get in touch](https://joannepaul.com/contact). Read more [here]("https://joannepaul.com/about"). 
 
 - - -
 
