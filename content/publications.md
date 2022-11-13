@@ -17,7 +17,11 @@ With three generations of felled favourites, what was it that caused this family
 
 ##### Praise for *The House of Dudley*
 
-A TIMES 'BOOK OF 2022', BOOK OF THE WEEK AND 'SUMMER READ 2022'
+A *TIMES* 'BOOK OF 2022' & BOOK OF THE WEEK 
+
+A *TELEGRAPH* 'SUMMER READ 2022' 
+
+ONE OF WATERSTONES 'BEST BOOKS OF 2022' 
 
 <figure>
 <blockquote>'Exciting and immersive. An immensely entertaining history, capturing in full Tudor brilliance the cut-throat glamour of the English throne and the most audacious family to play its game.'</blockquote>
