@@ -22,15 +22,13 @@ Tris Payne (media agent):
 ```
 
 <div class="ml-form-recaptcha ml-validate-required" style="float: left;">
-                <style type="text/css">
+<style type="text/css">
   .ml-form-recaptcha {
     margin-bottom: 20px;
   }
-
   .ml-form-recaptcha.ml-error iframe {
     border: solid 1px #ff0000;
   }
-
   @media screen and (max-width: 480px) {
     .ml-form-recaptcha {
       width: 220px!important
