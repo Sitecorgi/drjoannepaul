@@ -15,4 +15,7 @@ Tris Payne (media agent):
 * Email: [tpayne@pfd.co.uk](mailto:tpayne@pfd.co.uk)
 * Telephone: 020 7344 1011
 
+### Love History?
+
+Keep up to date with the latest news, books, events and more by signing up to the [newsletter here](https://dashboard.mailerlite.com/forms/221415/71694262742287785/share)
 - - -
