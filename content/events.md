@@ -19,18 +19,54 @@ See links below to purchase tickets.
 
 - - -
 
-### [Roundtable Course: The House of Dudley](https://www.roundtable.org/class/course/the-house-of-dudley-a-new-history-of-tudor-england)
+### [Séminaire franco-britannique d'histoire](https://sfbh.hypotheses.org/)
 
-15:30\
-24 October - 21 November
+19:00 (CET) \
+1 December 2022
 
-online only 
+La Maison de la Recherche de Paris IV-Sorbonne est située au 28, rue Serpente\
+75006 Paris 
 
 <br/>
 
 - - -
 
-### [Battle and District Historical Society](https://battlehistorysociety.com/Programme/)
+#### [BUY MY F\*\*KING BOOK BY SCIENCE SHOWOFF](https://www.wegottickets.com/event/560767)
+
+19:00  \
+5 December 2022
+
+It's CHRISTMAS\
+\
+But with what will you stuff your stockings?\
+\
+Join Steve Cross and seven authors DESPERATE to secure a sale of their latest intellectual unit-shifter for a hilarious guide to finishing your present shopping.\
+\
+In ten minute speeches they'll tell mix entertaining stories, hard selling, pleading, secrets of the publishing world and whetever else it takes to get money out of your pockets and into a bookseller's register.
+
+[LONDON: The Harrison](https://www.wegottickets.com/location/537)\
+28 Harrison St\
+London\
+WC1H 8JF
+
+
+
+<br/>
+
+- - -
+
+#### **[Women in Intellectual History: The Early Modern Period ](https://is-ih.com/ecr/women-in-intellectual-history-2022-23/)**
+
+16:00 (CET) \
+5 January 2023
+
+Zoom only. 
+
+<br/>
+
+- - -
+
+#### [Battle and District Historical Society](https://battlehistorysociety.com/Programme/)
 
 19:30\
 15 June 2023
