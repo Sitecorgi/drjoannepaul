@@ -33,7 +33,7 @@ Zoom only.
 #### **[Secrets of the Royal Palaces (Channel 5)](https://www.channel5.com/show/secrets-of-the-royal-palaces/season-3/secrets-of-the-royal-palaces)**
 
 18:30 on Channel 5 \
-7 January 2023 
+Starts 7 January 2023 
 
 <br/>
 
