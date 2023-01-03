@@ -19,24 +19,21 @@ See links below to purchase tickets.
 
 - - -
 
-### [Séminaire franco-britannique d'histoire](https://sfbh.hypotheses.org/)
-
-19:00 (CET) \
-1 December 2022
-
-La Maison de la Recherche de Paris IV-Sorbonne est située au 28, rue Serpente\
-75006 Paris 
-
-<br/>
-
-- - -
-
 #### **[Women in Intellectual History: The Early Modern Period ](https://is-ih.com/ecr/women-in-intellectual-history-2022-23/)**
 
 16:00 (CET) \
 5 January 2023
 
 Zoom only. 
+
+<br/>
+
+- - -
+
+#### **[Secrets of the Royal Palaces (Channel 5)](https://www.channel5.com/show/secrets-of-the-royal-palaces/season-3/secrets-of-the-royal-palaces)**
+
+18:30 on Channel 5 \
+7 January 2023 
 
 <br/>
 
