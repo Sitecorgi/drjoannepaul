@@ -19,21 +19,36 @@ See links below to purchase tickets.
 
 - - -
 
-#### **[Women in Intellectual History: The Early Modern Period ](https://is-ih.com/ecr/women-in-intellectual-history-2022-23/)**
+#### **[Secrets of the Royal Palaces (Channel 5)](https://www.channel5.com/show/secrets-of-the-royal-palaces/season-3/secrets-of-the-royal-palaces)**
 
-16:00 (CET) \
-5 January 2023
-
-Zoom only. 
+18:30 on Channel 5 \
+Starts 7 January 2023, appearances in eps. 2, 3, 4 & 5
 
 <br/>
 
 - - -
 
-#### **[Secrets of the Royal Palaces (Channel 5)](https://www.channel5.com/show/secrets-of-the-royal-palaces/season-3/secrets-of-the-royal-palaces)**
+#### **[Keynote Student Conference: Tudor England](https://www.keynoteeducational.co.uk/product/a-level-history-tudor-england-1485-1603-student-conference/)**
 
-18:30 on Channel 5 \
-Starts 7 January 2023, appearances in eps. 2, 3, 4 & 5
+1 February 2023
+
+[Registration in advance](https://www.keynoteeducational.co.uk/product/a-level-history-tudor-england-1485-1603-student-conference/). 
+
+<br/>
+
+- - -
+
+#### In the Shadow of the Tudors: Lady Jane Grey 
+
+11 March 2023
+
+Southwark Cathedral 
+
+Historians Melita Thomas, Dr Joanne Paul, Dr Nicola Tallis and Alison Weir, over the course of the day, explore this dramatic story, examining key events, documents and characters, and assessing Jane's role in the coup that cost her life. The tragic tale of the Nine Days' Queen is a breathless political thriller as well as a defining moment in the history of England.
+
+This is event is in partnership with Tudor Times and is in-person only.
+
+Tickets available [here](https://www.eventbrite.co.uk/e/in-the-shadow-of-the-tudors-lady-jane-grey-and-he-tickets-405542778367) - SOLD OUT 
 
 <br/>
 
