@@ -19,46 +19,63 @@ See links below to purchase tickets.
 
 - - -
 
-#### **[Secrets of the Royal Palaces (Channel 5)](https://www.channel5.com/show/secrets-of-the-royal-palaces/season-3/secrets-of-the-royal-palaces)**
+#### [The Dudleys and the Beauchamp Chapel](https://shop.tudortimes.co.uk/collections/talks/products/warwick)
 
-18:30 on Channel 5 \
-Starts 7 January 2023, appearances in eps. 2, 3, 4 & 5
+Online event: 4pm \
+22 April 2023 
 
-<br/>
+Join Tudor Times for an afternoon of talks on **Saturday 22 April 2023** **at 4pm London time** from three experts about the fabulous Beauchamp Chapel at St Mary's, Warwick, burial place of Robert Dudley, Earl of Leicester, Queen Elizabeth I's favourite; of his brother, Ambrose, Earl of Warwick, and Leiceseter's wife, Lettice Knollys. This is a one-time event, it will not be recorded or available afterwards.
 
-- - -
-
-#### **[Keynote Student Conference: Tudor England](https://www.keynoteeducational.co.uk/product/a-level-history-tudor-england-1485-1603-student-conference/)**
-
-1 February 2023
-
-[Registration in advance](https://www.keynoteeducational.co.uk/product/a-level-history-tudor-england-1485-1603-student-conference/). 
+Purchase tickets [here](https://shop.tudortimes.co.uk/collections/talks/products/warwick).
 
 <br/>
 
 - - -
 
-#### In the Shadow of the Tudors: Lady Jane Grey 
+#### [Historian's Guide to the Coronation](https://roundtable.org/class/course/a-historians-guide-to-the-coronation)
 
-11 March 2023
+Online event: 5pm\
+27 April 2023\
+\
+This short masterclass will introduce participants to the ceremony, symbolism, and history of the coronation, by way of 1000+ years of English history. From the Normans, Plantagenets, Tudors and Stuarts, and into the more "modern" Hanoverians and Windsors, the coronation has developed and changed, while some of its ancient roots remain. The coronation is thus a powerful symbol of Britain itself and a perfect vehicle for exploring its history.  
 
-Southwark Cathedral 
-
-Historians Melita Thomas, Dr Joanne Paul, Dr Nicola Tallis and Alison Weir, over the course of the day, explore this dramatic story, examining key events, documents and characters, and assessing Jane's role in the coup that cost her life. The tragic tale of the Nine Days' Queen is a breathless political thriller as well as a defining moment in the history of England.
-
-This is event is in partnership with Tudor Times and is in-person only.
-
-Tickets available [here](https://www.eventbrite.co.uk/e/in-the-shadow-of-the-tudors-lady-jane-grey-and-he-tickets-405542778367) - SOLD OUT 
+Sign up [here](https://roundtable.org/class/course/a-historians-guide-to-the-coronation). 
 
 <br/>
 
 - - -
 
-#### [Battle and District Historical Society](https://battlehistorysociety.com/Programme/)
+#### [A New History of the Tudors and the Powerful House of Dudley](https://roundtable.org/class/course/a-new-history-of-the-tudors-and-the-powerful-house-of-dudley)
 
-19:30\
-15 June 2023
+Online course\
+16 May - 20 June, 4:00 - 5:00 PM BST\
+\
+Over five weeks, Dr. Paul will explore the richness of the Tudor period—from Henry VII to Elizabeth I, from the Renaissance to the Reformation, and from the battlefields of France to the lavish banquet tables of Henry VIII, ushering in a new state religion and confirmation of the distinctly English culture that would have world-wide repercussions for centuries, all with the devious Dudleys as their guide.  
 
+Sign up [here](https://roundtable.org/class/course/a-new-history-of-the-tudors-and-the-powerful-house-of-dudley). 
+
+<br/>
+
+- - -
+
+#### [Thomas More's Birthplace](https://www.history.ac.uk/events/double-session-mores-birthplaceearly-tudor-london)
+
+Hybrid event: 5:30pm\
+18 May 2023\
+IHR Wolfson Room NB01, Basement, IHR, Senate House, Malet Street, London WC1E 7HU
+
+Register (Free) [here](https://www.history.ac.uk/events/double-session-mores-birthplaceearly-tudor-london).
+
+<br/>
+
+- - -
+
+#### [The House of Dudley](https://battlehistorysociety.com/Programme/)
+
+Battle and District Historical Society\
+7:30pm, 15 June 2023\
 Wynne Room at the Battle Memorial Hall
+
+Considered by some to be ‘the Borgias of the Tudor Age’, the family included a tax collector of Henry VII, a duke who tried to put his daughter-in-law on the throne and an earl who was the love of Elizabeth I.
 
 <br/>
