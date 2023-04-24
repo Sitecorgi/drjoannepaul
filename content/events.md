@@ -19,19 +19,6 @@ See links below to purchase tickets.
 
 - - -
 
-#### [The Dudleys and the Beauchamp Chapel](https://shop.tudortimes.co.uk/collections/talks/products/warwick)
-
-Online event: 4pm \
-22 April 2023 
-
-Join Tudor Times for an afternoon of talks on **Saturday 22 April 2023** **at 4pm London time** from three experts about the fabulous Beauchamp Chapel at St Mary's, Warwick, burial place of Robert Dudley, Earl of Leicester, Queen Elizabeth I's favourite; of his brother, Ambrose, Earl of Warwick, and Leiceseter's wife, Lettice Knollys. This is a one-time event, it will not be recorded or available afterwards.
-
-Purchase tickets [here](https://shop.tudortimes.co.uk/collections/talks/products/warwick).
-
-<br/>
-
-- - -
-
 #### [Historian's Guide to the Coronation](https://roundtable.org/class/course/a-historians-guide-to-the-coronation)
 
 Online event: 5pm\
@@ -77,5 +64,23 @@ Battle and District Historical Society\
 Wynne Room at the Battle Memorial Hall
 
 Considered by some to be ‘the Borgias of the Tudor Age’, the family included a tax collector of Henry VII, a duke who tried to put his daughter-in-law on the throne and an earl who was the love of Elizabeth I.
+
+<br/>
+
+- - -
+
+#### [The House of Dudley](https://cathedral.southwark.anglican.org/whats-on/the-house-of-dudley-a-new-history-of-tudor-england-a-talk-by-dr-joanne-paul/)
+
+Southwark Cathedral\
+6:30pm, 2 Nov 2023\
+Library
+
+Here, for the first time, is the story of England's Borgias, a noble house competing in the murderous game of musical chairs around the English throne. Witness cunning, adultery and sheer audacity from history's most brilliant, bold and skulduggerous family.
+
+This event will take place in the Cathedral library and will be in-person only and not streamed or recorded.
+
+Doors will open at 6.15pm and copies of The House of Dudley: A New History of Tudor England will be available to purchase on the evening.
+
+Book tickets [here](https://cathedral.southwark.anglican.org/whats-on/the-house-of-dudley-a-new-history-of-tudor-england-a-talk-by-dr-joanne-paul/).
 
 <br/>
