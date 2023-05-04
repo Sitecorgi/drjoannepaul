@@ -9,7 +9,7 @@ date: 2021-03-17T19:31:20.591Z
 
 *Michael Joseph, Penguin 2022* 
 
-<p align="center"><img src="img/houseofdudley.jpg" style={{"maxWidth" : "80%" }} /></p>
+<p align="center"><img src="img/paperbackhouseofdudley.jpg" style={{"maxWidth" : "80%" }} /></p>
 
 Each Tudor monarch made their name with a Dudley by their side - or by crushing one beneath their feet. The Dudleys thrived at the court of Henry VII, but were sacrificed to the popularity of Henry VIII. Rising to prominence in the reign of Edward VI, the Dudleys lost it all by advancing Jane Grey to the throne over Mary I. Under Elizabeth I, the family were once again at the centre of power, and would do anything to remain there...
 
