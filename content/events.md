@@ -96,6 +96,20 @@ Purchase tickets [here](https://musicandartswinchcombe.co.uk/friday-23rd-june-20
 
 - - -
 
+#### [An Evening with Dr Estelle Paranque and Dr Joanne Paul](https://maryrose.digitickets.co.uk/event-tickets/48859?catID=12383)
+
+6:30pm\
+12 July 2023\
+The Mary Rose Museum 
+
+Join us after hours on July 12th 2023 to explore the Mary Rose Museum and hear from esteemed authors, broadcasters and historians Dr Estelle Paranque and Dr Joanne Paul.
+
+Purchase tickets [here](https://maryrose.digitickets.co.uk/event-tickets/48859?catID=12383).
+
+<br/>
+
+- - -
+
 #### [The House of Dudley](https://cathedral.southwark.anglican.org/whats-on/the-house-of-dudley-a-new-history-of-tudor-england-a-talk-by-dr-joanne-paul/)
 
 Southwark Cathedral\
