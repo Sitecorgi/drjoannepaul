@@ -16,7 +16,7 @@ She has shared her work widely, including with academic and trade presses, popul
 
 ### The House of Dudley,  *a New History of Tudor England*
 
-**Told for the very first time is the true story of the secret royal family, The Dudleys - [Order now](https://www.penguin.co.uk/books/309/309209/the-house-of-dudley/9780241349823.html)**
+**Told for the very first time is the true story of the secret royal family, The Dudleys - [Order now](https://uk.bookshop.org/a/12264/9781405937191)**
 
 > 'Rich and compelling. Conjures up the look and feel of Tudor life . . . You will find yourself drawn in, fascinated, and richly informed' — *Telegraph*
 
