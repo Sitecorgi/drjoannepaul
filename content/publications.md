@@ -5,7 +5,7 @@ date: 2021-03-17T19:31:20.591Z
 ---
 ## Publications
 
-#### The House of Dudley
+#### [The House of Dudley](https://uk.bookshop.org/a/12264/9781405937191)
 
 *Michael Joseph, Penguin 2022* 
 
@@ -55,7 +55,7 @@ ONE OF WATERSTONES 'BEST BOOKS OF 2022'
 
 - - -
 
-#### Counsel and Command in Early Modern English Thought
+#### [Counsel and Command in Early Modern English Thought](https://uk.bookshop.org/a/12264/9781108748254)
 
 *Ideas in Context, Cambridge University Press 2020*
 
@@ -77,7 +77,7 @@ While it has often been recognised that counsel formed an essential part of the 
 
 - - -
 
-#### Thomas More
+#### [Thomas More](https://uk.bookshop.org/a/12264/9780745692173)
 
 *Classic Thinkers, Polity 2017*
 
@@ -102,6 +102,6 @@ Paul's book serves as an essential foundation for any student encountering More'
 
 - - -
 
- You can find a full list of publications on [Google Scholar](https://scholar.google.co.uk/citations?user=ao78iA4AAAAJ&hl=en). 
+ You can find a full list of publications on [Google Scholar](https://scholar.google.co.uk/citations?user=ao78iA4AAAAJ&hl=en). For Joanne's personal booklist, visit [Bookshop.org](https://uk.bookshop.org/lists/books-by-joanne-paul).
 
 - - -
