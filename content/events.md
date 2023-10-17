@@ -21,95 +21,6 @@ See links below to purchase tickets.
 
 - - -
 
-#### [Historian's Guide to the Coronation](https://roundtable.org/class/course/a-historians-guide-to-the-coronation)
-
-Online event: 5pm  \
-27 April 2023\
-\
-This short masterclass will introduce participants to the ceremony, symbolism, and history of the coronation, by way of 1000+ years of English history. From the Normans, Plantagenets, Tudors and Stuarts, and into the more "modern" Hanoverians and Windsors, the coronation has developed and changed, while some of its ancient roots remain. The coronation is thus a powerful symbol of Britain itself and a perfect vehicle for exploring its history.  
-
-Sign up [here](https://roundtable.org/class/course/a-historians-guide-to-the-coronation). 
-
-<br/>
-
-- - -
-
-#### [The Coronation: An Alternative History](https://www.eventbrite.co.uk/e/the-coronation-an-alternative-history-tickets-617613798497)
-
-Online event: 7pm \
-4 May 2023\
-\
-This is the history of British coronations you won’t get on the TV. Join historians Anita Anand, Teni Gogo, Joanne Paul, Rebecca Rideal and Nicola Tallis as they go beyond the spectacle and splendour, telling stories of conquest and theft, mayhem and mishaps, and ritual and resistance in the long history of British coronations.
-
-Register [here](https://www.eventbrite.co.uk/e/the-coronation-an-alternative-history-tickets-617613798497). 
-
-<br/>
-
-- - -
-
-#### [A New History of the Tudors and the Powerful House of Dudley](https://roundtable.org/class/course/a-new-history-of-the-tudors-and-the-powerful-house-of-dudley)
-
-Online course\
-16 May - 20 June, 4:00 - 5:00 PM\
-\
-Over five weeks, Dr. Paul will explore the richness of the Tudor period—from Henry VII to Elizabeth I, from the Renaissance to the Reformation, and from the battlefields of France to the lavish banquet tables of Henry VIII, ushering in a new state religion and confirmation of the distinctly English culture that would have world-wide repercussions for centuries, all with the devious Dudleys as their guide.  
-
-Sign up [here](https://roundtable.org/class/course/a-new-history-of-the-tudors-and-the-powerful-house-of-dudley). 
-
-<br/>
-
-- - -
-
-#### [Thomas More's Birthplace](https://www.history.ac.uk/events/double-session-mores-birthplaceearly-tudor-london)
-
-Hybrid event: 5:30pm\
-18 May 2023\
-IHR Wolfson Room NB01, Basement, IHR, Senate House, Malet Street, London WC1E 7HU
-
-Register (Free) [here](https://www.history.ac.uk/events/double-session-mores-birthplaceearly-tudor-london).
-
-<br/>
-
-- - -
-
-#### [The House of Dudley](https://battlehistorysociety.com/Programme/)
-
-Battle and District Historical Society\
-7:30pm, 15 June 2023\
-Wynne Room at the Battle Memorial Hall
-
-Considered by some to be ‘the Borgias of the Tudor Age’, the family included a tax collector of Henry VII, a duke who tried to put his daughter-in-law on the throne and an earl who was the love of Elizabeth I.
-
-<br/>
-
-- - -
-
-#### [A Tudor Game of Thrones: The Houses of Dudley and Seymour](https://musicandartswinchcombe.co.uk/friday-23rd-june-2023/)
-
-5:30pm \
-23 June 2023 \
-Sudeley Castle 
-
-Purchase tickets [here](https://musicandartswinchcombe.co.uk/friday-23rd-june-2023/).
-
-<br/>
-
-- - -
-
-#### [An Evening with Dr Estelle Paranque and Dr Joanne Paul](https://maryrose.digitickets.co.uk/event-tickets/48859?catID=12383)
-
-6:30pm\
-12 July 2023\
-The Mary Rose Museum 
-
-Join us after hours on July 12th 2023 to explore the Mary Rose Museum and hear from esteemed authors, broadcasters and historians Dr Estelle Paranque and Dr Joanne Paul.
-
-Purchase tickets [here](https://maryrose.digitickets.co.uk/event-tickets/48859?catID=12383).
-
-<br/>
-
-- - -
-
 #### [The House of Dudley](https://cathedral.southwark.anglican.org/whats-on/the-house-of-dudley-a-new-history-of-tudor-england-a-talk-by-dr-joanne-paul/)
 
 Southwark Cathedral\
@@ -125,3 +36,45 @@ Doors will open at 6.15pm and copies of The House of Dudley: A New History of Tu
 Book tickets [here](https://cathedral.southwark.anglican.org/whats-on/the-house-of-dudley-a-new-history-of-tudor-england-a-talk-by-dr-joanne-paul/).
 
 <br/>
+
+- - -
+
+#### [The House of Dudley](https://www.winchestercatholichistorysociety.com/whats-on)
+
+Winchester Catholic History Society
+
+Wednesday 15th November 2023\
+at The Parish Centre\
+Starts at 7.15pm
+
+Details [here](https://www.winchestercatholichistorysociety.com/whats-on).
+
+<br/>
+
+- - -
+
+#### [The House of Dudley: Just the Women](https://www.eventbrite.co.uk/e/the-tudors-online-history-festival-tickets-593780943787?aff=oddtdtcreator)
+
+The Tudors Online History Festival \
+Fri, 17 Nov 2023 20:00 - Sun, 19 Nov 2023 21:30 GMT
+
+The Tudors Online History Festival celebrates the history and culture of the Tudor period. This festival brings together eminent historians to share their knowledge and passion for this fascinating era with people attending from all over the world. The Tudor period is known for its dramatic political and religious changes, the reigns of famous monarchs such as Henry VIII and Elizabeth I, and its rich cultural and artistic achievements. The festival offers a unique opportunity to learn more about this captivating period through a variety of presentations, discussions, and interactive events. Whether you are a Tudor history buff or simply curious about this exciting period in history, the Tudors Online History Festival is not to be missed!
+
+Book tickets [here](https://www.eventbrite.co.uk/e/the-tudors-online-history-festival-tickets-593780943787?aff=oddtdtcreator).
+
+<br/>
+
+- - -
+
+#### [Treason and Glory: The Children of the House of Dudley ](https://www.eventbrite.co.uk/e/tales-of-youth-the-big-history-night-in-tickets-605913512627)
+
+Saturday, February 10, 2024 · 6:30 - 10pm GMT\
+Southwark Cathedral
+
+Join us for an unforgettable evening at Tales of Youth: The Big History Night In - By Candlelight!
+
+'Tales of Youth' is a unique opportunity to gather with friends and family to explore the captivating tales that have shaped our world. Immerse yourself in an enchanting atmosphere, as we dim the lights and set the stage aglow with the warm flicker of candles.
+
+Throughout the 3-hours, historians, storytellers, and performers will transport you back in time, regaling you with stories of triumphs, tragedies, and extraordinary adventures. From ancient civilizations to modern revolutions, you'll discover the secrets and wonders of the past, all while enjoying the company of fellow history enthusiasts.
+
+Book tickets [here](https://www.eventbrite.co.uk/e/tales-of-youth-the-big-history-night-in-tickets-605913512627).
