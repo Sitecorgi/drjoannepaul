@@ -44,3 +44,14 @@ Harvington Hall History Festival
 Each Tudor monarch made their name with a Dudley by their side—or by crushing one beneath their feet. This is the story of a family competing in a murderous game for  the English throne. Witness cunning, adultery, and sheer audacity from history's most brilliant, bold, and deceitful family. Welcome to the House of Dudley.​ 
 
 Book tickets [here](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=53517).
+
+- - -
+
+#### [The House of Dudley: Just the Women](https://heverfestival.co.uk/index.php/hf5-dr-joanne-paul/)
+
+Wednesday, 21 August @ 2pm \
+The History Festival at Hever Castle 
+
+This isn’t the story of the Dudleys we might know – Edmund, John, Robert. This is the secret story of the women of the Dudley family, who for over a century continually picked up the pieces each time the family fell apart. It was their cunning, conniving and courtly brilliance that preserved the House of Dudley over generations, and their story has never been told.
+
+Book tickets [here](https://heverfestival.co.uk/index.php/hf5-dr-joanne-paul/).
