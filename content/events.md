@@ -36,6 +36,17 @@ Book tickets [here](https://www.eventbrite.co.uk/e/tales-of-youth-the-big-histor
 
 - - -
 
+#### [The House of Dudley: The Family Behind the Tudor Dynasty](https://www.steyningfestival.co.uk/product/the-house-of-dudley-the-family-behind-the-tudor-dynasty/)
+
+29 May, 2025 7:30pm\
+Steyning Festival, Methodist Church
+
+Join Dr Joanne Paul, historian, and author of ‘The House of Dudley’, for a fascinating glimpse into the hidden history of the Dudley Family – the power behind the throne in Tudor England! Each Tudor monarch made their name with a Dudley by their side—or by crushing one beneath their feet.
+
+Book tickets [here](https://www.ticketsource.co.uk/steyningfestival).
+
+- - -
+
 #### [The House of Dudley ](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=53517)
 
 Friday, 26 July 1:30pm \
