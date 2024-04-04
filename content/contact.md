@@ -17,6 +17,8 @@ Tris Payne (media agent):
 
 ### Love History?
 
+Book a 1-2-1 chat via [Skolay](skolay.com/writers/joanne-paul). 
+
 Keep up to date with the latest news, books, events and more by signing up to the [newsletter.](https://dashboard.mailerlite.com/forms/221415/71694262742287785/share)
 
 Join the conversation over coffee at [BuymeaCoffee.com.](https://www.buymeacoffee.com/DrJoannePaul)
