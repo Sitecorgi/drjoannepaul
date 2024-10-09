@@ -5,7 +5,13 @@ date: 2021-03-17T19:31:20.591Z
 ---
 ## Consultancy
 
-Joanne has consulted on a number of historical projects, including TV and radio programs, heritage sites and museums, as well as books, magazines, podcasts and YouTube series. She is a [Consulting Partner at History Studio International](https://historystudio.com/joanne-paul/).
+Joanne is a [Consulting Partner at History Studio International](https://historystudio.com/joanne-paul/) and has consulted on a number of historical projects, including:
+
+* TV and radio programs
+* heritage sites and museums
+* books and magazines
+* podcasts and YouTube series
+* private projects (genealogy, curriculum design, writing projects, career mentoring and publication)
 
 Her expertise includes: 
 
