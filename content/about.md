@@ -13,7 +13,7 @@ Her work focuses on the political, intellectual and cultural history of the Rena
 
 - - -
 
-Joanne is Honorary Senior Lecturer in Intellectual History at the University of Sussex, a Fellow of the Royal Historical Society and an Associate Fellow of the Higher Education Academy. She also a BBC/AHRC New Generation Thinker for 2017. 
+Joanne is Honorary Associate Professor in Intellectual History at the University of Sussex, a Fellow of the Royal Historical Society and an Associate Fellow of the Higher Education Academy. She also a BBC/AHRC New Generation Thinker for 2017. 
 
 Joanne has published her research widely, both in academic presses and for a general readership. Her book on the thought and writing of [Thomas More](https://uk.bookshop.org/a/12264/9780745692173) was published with Polity in 2016, and led to publications in [History Today](https://www.historytoday.com/archive/united-republic-utopia), [History Extra](http://www.historyextra.com/bbc-history-magazine/issue/may-2016), [Juncture](http://onlinelibrary.wiley.com/doi/10.1111/j.2050-5876.2016.00895.x/epdf), Prospect and elsewhere, as well as speaking engagements at [BBC History Weekend](http://www.historyweekend.com/winchester), the [Battle of Ideas](http://www.battleofideas.org.uk/2016/session/11549) and other events around the UK and Europe. In 2013 she was awarded the Sir John Neale Prize in Tudor History by the Institute of Historical Research. 
 
