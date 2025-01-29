@@ -21,48 +21,25 @@ See links below to purchase tickets.
 
 - - -
 
-#### [Treason and Glory: The Children of the House of Dudley ](https://www.eventbrite.co.uk/e/tales-of-youth-the-big-history-night-in-tickets-605913512627)
+#### [Thomas More: Life and Death](https://ckhh.org.uk/tudors-stuarts/details/thomas-more-life-and-death)
 
-Saturday, February 10, 2024 · 6:30 - 10pm GMT\
-Southwark Cathedral
+###### Tudors and Stuarts Weekend 2025\
+\
+**Date:** Saturday 26 April 2025, 11:30-12:30\
+**Venue:** [Augustine House | AHg.27](https://ckhh.org.uk/tudors-stuarts/details/thomas-more-life-and-death#Venue)
 
-Join us for an unforgettable evening at Tales of Youth: The Big History Night In - By Candlelight!
+There are few figures in English history as divisive as Thomas More; he is worshipped as a saint and reviled as a persecutor. This talk by Joanne Paul – author of a forthcoming biography of More – will present new evidence about More’s upbringing, court connections and political beliefs, with the aim of re-evaluating his divided legacy. Participants will also be given a new perspective on More’s fall - his trial and execution at the hands of the king he served, Henry VIII. Separating myth from solid evidence, the talk will seek to discover the heart and mind of the historic More.
 
-'Tales of Youth' is a unique opportunity to gather with friends and family to explore the captivating tales that have shaped our world. Immerse yourself in an enchanting atmosphere, as we dim the lights and set the stage aglow with the warm flicker of candles.
-
-Throughout the 3-hours, historians, storytellers, and performers will transport you back in time, regaling you with stories of triumphs, tragedies, and extraordinary adventures. From ancient civilizations to modern revolutions, you'll discover the secrets and wonders of the past, all while enjoying the company of fellow history enthusiasts.
-
-Book tickets [here](https://www.eventbrite.co.uk/e/tales-of-youth-the-big-history-night-in-tickets-605913512627).
+Book tickets [here](https://ckhh.org.uk/tudors-stuarts/details/thomas-more-life-and-death).
 
 - - -
 
-#### [The House of Dudley: The Family Behind the Tudor Dynasty](https://www.steyningfestival.co.uk/product/the-house-of-dudley-the-family-behind-the-tudor-dynasty/)
+#### [Thomas More: Man, Myth and Mystery](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=61089)
 
-29 May, 2025 7:30pm\
-Steyning Festival, Methodist Church
+**[Harvington History Festival 2025](https://harvingtonhall.digitickets.co.uk/category/61089?navItem=801043)**
 
-Join Dr Joanne Paul, historian, and author of ‘The House of Dudley’, for a fascinating glimpse into the hidden history of the Dudley Family – the power behind the throne in Tudor England! Each Tudor monarch made their name with a Dudley by their side—or by crushing one beneath their feet.
+**Date: Thurs 24th July 1.30pm**
 
-Book tickets [here](https://www.ticketsource.co.uk/steyningfestival).
+Saintly scholar, zealous persecutor, ambitious statesman - who was the ‘real’ Thomas More? Neither the hero of Man For All Seasons nor the villain of Wolf Hall, this talk recovers the living, breathing, complex historical individual who walked London’s streets, wrote Utopia, and daringly spoke truth to Henry VIII. Drawing on new archival research from her biography of More, Dr Joanne Paul will separate the man from the myth to discover the real Thomas More. Join us as we delve into the fascinating world of the sixteenth century to separate fact from fiction and uncover the enduring legacy of one of history's most enigmatic and divisive figures.
 
-- - -
-
-#### [The House of Dudley ](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=53517)
-
-Friday, 26 July 1:30pm \
-Harvington Hall History Festival
-
-Each Tudor monarch made their name with a Dudley by their side—or by crushing one beneath their feet. This is the story of a family competing in a murderous game for  the English throne. Witness cunning, adultery, and sheer audacity from history's most brilliant, bold, and deceitful family. Welcome to the House of Dudley.​ 
-
-Book tickets [here](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=53517).
-
-- - -
-
-#### [The House of Dudley: Just the Women](https://heverfestival.co.uk/index.php/hf5-dr-joanne-paul/)
-
-Wednesday, 21 August @ 2pm \
-The History Festival at Hever Castle 
-
-This isn’t the story of the Dudleys we might know – Edmund, John, Robert. This is the secret story of the women of the Dudley family, who for over a century continually picked up the pieces each time the family fell apart. It was their cunning, conniving and courtly brilliance that preserved the House of Dudley over generations, and their story has never been told.
-
-Book tickets [here](https://heverfestival.co.uk/index.php/hf5-dr-joanne-paul/).
+Book tickets [here](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=61089).
