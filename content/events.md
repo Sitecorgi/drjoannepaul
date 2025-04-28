@@ -61,6 +61,18 @@ A remarkable book about the life and philosophy of Thomas More. It is a revelato
 
 - - -
 
+#### [Thomas More: A Life with Author and Historian Dr Joanne Paul](https://ashlandmass.assabetinteractive.com/calendar/virtual-thomas-more-a-life-with-author-and-historian-joanne-paul/)
+
+\
+**Date:** Wednesday 16th July 10am EST\
+**Venue:** ONLINE (hosted by Ashland Public Library, Mass) 
+
+This one is for our history buffs out there! Join author and historian Joanne Paul as she discusses her book, "Thomas More: A Life", the definitive biography of the man who dominated political and intellectual circles in England during the sixteenth century. Meticulously researched, based on new archival discoveries, and drawing on more than a decade of research into More’s life and work, this is a richly told story of faith and politics that illuminates a man who, more than four hundred years after his execution, remains one of the most brilliant minds of the Renaissance. We hope you can join us for this fascinating talk!
+
+Register [here](https://us06web.zoom.us/webinar/register/WN__M5jNxJlTxaQcy3eEt-hJQ#/registration).
+
+- - -
+
 #### [Thomas More: Man, Myth and Mystery](https://harvingtonhall.digitickets.co.uk/event-tickets/54922?catID=61089)
 
 **[Harvington History Festival 2025](https://harvingtonhall.digitickets.co.uk/category/61089?navItem=801043)**
