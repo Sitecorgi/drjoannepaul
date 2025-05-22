@@ -15,7 +15,7 @@ export default class Contact extends Component {
         </Head>
           <div className="main-content">
           <Hero display="desktop" url={"cover.jpg"}/>
-          <Hero display="mobile" url={"jo_headshot2.jpeg"}/>
+          <Hero display="mobile" url={"djpheadshot1600.jpg"}/>
             <div className="content-column">
                 <Article content={<ContactContent/>} />
             </div>
