@@ -26,29 +26,27 @@ export default function Header() {
     <header className={ `transition-header ${showNav && 'site-header'}`}>
       <div className={`site-header-contents`}>
         <Link href="/">
-          <a>
             <h1>Dr Joanne Paul</h1>
             <p>RENAISSANCE HISTORIAN</p>
-          </a>
         </Link>
         <nav className="global-nav">
         <Link href="/">
-          <a>HOME</a>
+          HOME
         </Link>
         <Link href="/about">
-          <a>ABOUT</a>
+          ABOUT
         </Link>
         <Link href="/publications">
-          <a>PUBLICATIONS</a>
+          PUBLICATIONS
         </Link>
         <Link href="/events">
-          <a>EVENTS</a>
+          EVENTS
         </Link>
         <Link href="/consultancy">
-          <a>MEDIA &#038; CONSULTANCY</a>
+          MEDIA &#038; CONSULTANCY
         </Link>
         <Link href="/contact">
-          <a>CONTACT</a>
+          CONTACT
         </Link>
       </nav>
       <div className="mobile-menu">
@@ -59,23 +57,23 @@ export default function Header() {
       </div>
       { showMobileNav ? 
       <nav className="global-mobile-nav">
-        <Link href="/" >
-          <a onClick={() => clickMenu()}>HOME</a>
+        <Link href="/" onClick={() => clickMenu()}>
+          HOME
         </Link>
-        <Link href="/about">
-          <a onClick={() => clickMenu()}>ABOUT</a>
+        <Link href="/about" onClick={() => clickMenu()}>
+          ABOUT
         </Link>
-        <Link href="/publications">
-          <a onClick={() => clickMenu()}>PUBLICATIONS</a>
+        <Link href="/publications" onClick={() => clickMenu()}>
+          PUBLICATIONS
         </Link>
-        <Link href="/events">
-          <a onClick={() => clickMenu()}>EVENTS</a>
+        <Link href="/events" onClick={() => clickMenu()}>
+          EVENTS
         </Link>
-        <Link href="/consultancy">
-          <a onClick={() => clickMenu()}>MEDIA &#038; CONSULTANCY</a>
+        <Link href="/consultancy" onClick={() => clickMenu()}>
+          MEDIA &#038; CONSULTANCY
         </Link>
-        <Link href="/contact">
-          <a onClick={() => clickMenu()}>CONTACT</a>
+        <Link href="/contact" onClick={() => clickMenu()}>
+          CONTACT
         </Link>
       </nav> : null }
     </header>

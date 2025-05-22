@@ -5,6 +5,16 @@ date: 2021-03-17T19:31:20.591Z
 ---
 ## Publications
 
+#### [Thomas More: A Life and Death in Tudor England](https://uk.bookshop.org/a/12264/9781405953603)
+
+*Michael Joseph, Penguin 2025*
+
+<p align="center"><img src="img/ThomasMoreCover500.jpg" style={{"maxWidth" : "80%" }} /></p>
+
+Thomas More is one of the most famous – or infamous – figures in English history. Is he a saintly scholar and an inspiration for statesmen, socialists and intellectuals even today? Or is he the stubborn zealot famously portrayed in Hilary Mantel's Wolf Hall?
+
+Here is the definitive biography of this hypnotic, flawed figure. Overturning many interpretations of the sixteenth century, Joanne Paul shows More to have been an intellectual and political giant of his age, central to the making of modern Europe. Drawing on new archival discoveries and over a decade's research into More's life and work, this is a richly-told story of family, faith and politics.
+
 #### [The House of Dudley](https://uk.bookshop.org/a/12264/9781405937191)
 
 *Michael Joseph, Penguin 2022* 

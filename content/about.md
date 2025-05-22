@@ -7,7 +7,7 @@ date: 2021-03-17T19:31:20.591Z
 
 ### Dr Joanne Paul, BA, MA, PhD is an acclaimed historian who has published her research on the Renaissance and Early Modern periods widely.
 
-<p align="center"><img src="img/jocastle.jpg" style={{"maxWidth" : "100%"}} /></p>
+<p align="center"><img src="img/djpaboutnew.jpg" style={{"maxWidth" : "100%"}} /></p>
 
 Her work focuses on the political, intellectual and cultural history of the Renaissance and Early Modern periods, with an attention to Tudor and Stuart England. Her first trade book, [The House of Dudley](https://uk.bookshop.org/a/12264/9781405937191), was published in March 2022 by Michael Joseph (Penguin) to great [acclaim](https://joannepaul.com/publications). She has appeared on a variety of television, radio and podcast programmes and served as a consultant for historical documentary and drama. 
 

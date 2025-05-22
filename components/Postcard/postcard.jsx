@@ -5,7 +5,7 @@ export default function Postcard(props) {
   return (
     <>
       <div className="postcard-wrapper">
-        <img src="../../img/jo_headshot2.jpeg" />
+        <img src="../../img/djpheadshot1600.jpg" />
       </div>
 
       <p className="postcard-message">
