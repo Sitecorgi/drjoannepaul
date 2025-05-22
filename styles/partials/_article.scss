@@ -1,10 +1,12 @@
+@use "variables";
+
 .article {
   margin: 3rem 6rem;
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     margin: 3rem 4rem;
   }
 
-  @media (max-width: $laptop) {
+  @media (max-width: variables.$laptop) {
     margin: 2rem 2rem;
   }
   p {
@@ -19,44 +21,44 @@
     margin: 2rem;
     blockquote {
       font-family: "Montserrat", "sans-serif";
-      color: $grey-dark;
+      color: variables.$grey-dark;
       font-size: 1.3rem;
       line-height: 1.5;
       list-style: initial;
       margin: 0 0 0.5rem 0;
 
-      @media (max-width: $laptop) {
+      @media (max-width: variables.$laptop) {
         font-size: 1rem;
       }
 
-      @media (max-width: $tablet) {
+      @media (max-width: variables.$tablet) {
         font-size: 1rem;
       }
     }
 
     figcaption {
       font-family: "Montserrat", "sans-serif";
-      color: $grey-dark;
+      color: variables.$grey-dark;
       font-size: 1rem;
       line-height: 1;
       list-style: initial;
 
       a {
         text-decoration: none;
-        color: $green-dark;
+        color: variables.$green-dark;
 
         &:hover,
         active,
         visited {
-          color: $green-bg;
+          color: variables.$green-bg;
         }
       }
 
-      @media (max-width: $laptop) {
+      @media (max-width: variables.$laptop) {
         font-size: 1rem;
       }
 
-      @media (max-width: $tablet) {
+      @media (max-width: variables.$tablet) {
         font-size: 0.8rem;
       }
     }

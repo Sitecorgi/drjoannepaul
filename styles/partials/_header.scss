@@ -1,4 +1,4 @@
-@import "variables";
+@use "variables";
 
 .transition-header {
   transition: 0.5s;
@@ -41,12 +41,12 @@
     }
     p {
       margin: 0.2rem 0 1.6rem 1.6rem;
-      color: $grey-md;
+      color: variables.$grey-md;
       font-weight: bold;
       font-size: 1.5rem;
     }
 
-    @media (max-width: $desktop) {
+    @media (max-width: variables.$desktop) {
       min-width: 75%;
 
       h1 {
@@ -55,13 +55,13 @@
       }
       p {
         margin: 0.2rem 0 1.4rem 1.4rem;
-        color: $grey-md;
+        color: variables.$grey-md;
         font-weight: bold;
         font-size: 1.3rem;
       }
     }
 
-    @media (max-width: $laptop) {
+    @media (max-width: variables.$laptop) {
       min-width: 80%;
 
       h1 {
@@ -70,13 +70,13 @@
       }
       p {
         margin: 0.2rem 0 1.2rem 1.2rem;
-        color: $grey-md;
+        color: variables.$grey-md;
         font-weight: bold;
         font-size: 1.2rem;
       }
     }
 
-    @media (max-width: $tablet) {
+    @media (max-width: variables.$tablet) {
       min-width: 80%;
 
       h1 {
@@ -85,7 +85,7 @@
       }
       p {
         margin: 0.2rem 0 0.8rem 0.8rem;
-        color: $grey-md;
+        color: variables.$grey-md;
         font-weight: bold;
         font-size: 1rem;
       }

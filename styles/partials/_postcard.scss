@@ -1,3 +1,5 @@
+@use "variables";
+
 .postcard-wrapper {
     background-color:ghostwhite;
     border: 1.2rem solid ghostwhite;
@@ -10,18 +12,18 @@
 
 .postcard-message {
     transform: translate(0px, -50px);
-    color: $green-dark;
+    color: variables.$green-dark;
     font-size: 1.3rem;
     line-height: 1.5;
     margin: 1rem;
 
-    @media(max-width: $laptop){
+    @media(max-width: variables.$laptop){
         font-size: 1.2rem;
         line-height: 1.4;
         margin: 0.5rem;
     }
 
-    @media(max-width: $tablet){
+    @media(max-width: variables.$tablet){
         font-size: 0.8rem;
         margin: 0.4rem;
         line-height: 1.2;

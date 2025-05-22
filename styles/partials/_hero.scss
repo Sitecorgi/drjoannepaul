@@ -1,36 +1,41 @@
+@use "variables";
+
 .hero-wrapper {
+
+    height: auto;
+    border-left: 2px solid variables.$grey-dark;
+    border-right: 2px solid variables.$grey-dark;
+    line-height: 0;
+    display: flex;
+    flex-direction: row;
+    width: 55%;
+
     img {
         width:100%;
         height:100%;
     }
-    width: 55%;
     
-    @media (max-width: $desktop) {
+    @media (max-width: variables.$desktop) {
         width: 75%;
     } 
 
-    @media(max-width: $laptop){
+    @media(max-width: variables.$laptop){
         min-width: 80%;
     }
-    height: auto;
-    border-left: 2px solid $grey-dark;
-    border-right: 2px solid $grey-dark;
-    line-height: 0;
-    display: flex;
-    flex-direction: row;
+
 }
 
 .hero-wrapper-mobile{
     display:none;
 
-    @media(max-width: $phone){
+    @media(max-width: variables.$phone){
        display:inherit;
     }
 }
 
 .hero-wrapper-desktop{
     
-    @media(max-width: $phone){
+    @media(max-width: variables.$phone){
         display: none;
     }
 }

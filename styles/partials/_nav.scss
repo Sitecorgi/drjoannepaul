@@ -1,4 +1,4 @@
-@import "variables";
+@use "variables";
 
 .global-nav {
   display: flex;
@@ -12,18 +12,18 @@
     font-size: 1.3rem;
     margin: 0.5rem;
     font-family: "Montserrat", "sans-serif";
-    color: $grey-dark;
+    color: variables.$grey-dark;
     font-weight: bold;
 
     &:hover {
-      color: $green-bg;
+      color: variables.$green-bg;
     }
     &:active {
-      color: $green-dark;
+      color: variables.$green-dark;
     }
   }
 
-  @media (max-width: $desktop) {
+  @media (max-width: variables.$desktop) {
     
     a {
       line-height: 1;
@@ -31,11 +31,11 @@
       margin: 0.3rem;
     }
   }
-  @media(max-width: $laptop-l){
+  @media(max-width: variables.$laptop-l){
     flex-direction: column;
   }
  
-  @media (max-width: $phone) {
+  @media (max-width: variables.$phone) {
     display: none;
   }
 }
@@ -43,7 +43,7 @@
 .mobile-menu {
   display: none;
 
-  @media (max-width: $phone) {
+  @media (max-width: variables.$phone) {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -56,11 +56,11 @@
     }
 
     i.fa.fa-bars, i.fa.fa-times {
-      color: $grey-dark;
+      color: variables.$grey-dark;
       font-size: 2.5rem;
 
       &:hover {
-        color: $grey-md;
+        color: variables.$grey-md;
       }
     }
   }
@@ -80,19 +80,19 @@
     font-size: 0.8rem;
     margin: 0.2rem;
     font-family: "Montserrat", "sans-serif";
-    color: $grey-dark;
+    color: variables.$grey-dark;
     font-weight: bold;
     text-decoration: none;
 
     &:hover {
-      color: $green-bg;
+      color: variables.$green-bg;
     }
     &:active {
-      color: $green-dark;
+      color: variables.$green-dark;
     }
   }
 
-  @media (min-width: $tablet) {
+  @media (min-width: variables.$tablet) {
     display: none;
   }
 }
