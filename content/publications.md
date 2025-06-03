@@ -15,6 +15,22 @@ Thomas More is one of the most famous – or infamous – figures in English his
 
 Here is the definitive biography of this hypnotic, flawed figure. Overturning many interpretations of the sixteenth century, Joanne Paul shows More to have been an intellectual and political giant of his age, central to the making of modern Europe. Drawing on new archival discoveries and over a decade's research into More's life and work, this is a richly-told story of family, faith and politics.
 
+##### Praise for *Thomas More*
+
+'Engrossing' THE TIMES - BOOK OF THE WEEK \
+\
+'In this excellent study, Thomas More is reborn as a complex, absorbing man' DAILY TELEGRAPH\
+\
+'\[An] immersive, richly told account of life, death, faith and politics at the early Tudor court' SPECTATOR
+
+'\[An] entertaining and thought-provoking new biography... Paul is terrific at evoking the sights and spaces of 16th-century London' LITERARY REVIEW 
+
+'\[An] exceptionally well-researched biography... As compellingly as a novel, the story of More's rise and fall is vividly told' ELIZABETH NORTON \
+\
+'THE definitive biography of one of history's most complex and often inscrutable characters' NATHEN AMIN
+
+
+
 #### [The House of Dudley](https://uk.bookshop.org/a/12264/9781405937191)
 
 *Michael Joseph, Penguin 2022* 
