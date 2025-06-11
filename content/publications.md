@@ -25,11 +25,15 @@ Here is the definitive biography of this hypnotic, flawed figure. Overturning ma
 
 '\[An] entertaining and thought-provoking new biography... Paul is terrific at evoking the sights and spaces of 16th-century London' LITERARY REVIEW 
 
+'Joanne Paul has created a portrait of Thomas More that is epic, intimate and profoundly relatable to the modern reader. In Paul’s hands he is neither overly good nor bad; he just is. We are in a new age of tyrants – Thomas More shows the necessity of speaking truth to power at all costs' LEAH REDMOND CHAN
+
+'A work of proper scholarly history as well as a wonderful narrative read...Joanne Paul goes back to the words More wrote himself, to try and get at More before fame and the accusations against him took hold. I so enjoyed the result' SUZANNAH LIPSCOMB
+
+'Very impressive' ALISON WEIR
+
 '\[An] exceptionally well-researched biography... As compellingly as a novel, the story of More's rise and fall is vividly told' ELIZABETH NORTON \
 \
 'THE definitive biography of one of history's most complex and often inscrutable characters' NATHEN AMIN
-
-
 
 #### [The House of Dudley](https://uk.bookshop.org/a/12264/9781405937191)
 
