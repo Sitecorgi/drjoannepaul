@@ -21,62 +21,43 @@ See links below to purchase tickets.
 
 - - -
 
-#### [Thomas More and Thomas Cromwell](https://www.eventbrite.co.uk/e/tudor-times-presents-thomas-cromwell-the-rise-fall-an-evening-of-talks-tickets-1220945303269?aff=ebdsoporgprofile&_gl=1*1uo2nz0*_up*MQ..*_ga*MTgxNTM3MzM0My4xNzQyODk4NTM3*_ga_TQVES5V6SH*MTc0Mjg5ODUzNi4xLjAuMTc0Mjg5ODUzNi4wLjAuMA)
-
-###### Tudor Times presents Thomas Cromwell: The Rise & Fall
+#### [](https://www.eventbrite.co.uk/e/tudor-times-presents-thomas-cromwell-the-rise-fall-an-evening-of-talks-tickets-1220945303269?aff=ebdsoporgprofile&_gl=1*1uo2nz0*_up*MQ..*_ga*MTgxNTM3MzM0My4xNzQyODk4NTM3*_ga_TQVES5V6SH*MTc0Mjg5ODUzNi4xLjAuMTc0Mjg5ODUzNi4wLjAuMA)[The Dudleys and the Howards with Authors and Historians Joanne Paul and Nicola Clark](https://ashlandmass.assabetinteractive.com/calendar/virtual-the-dudleys-and-the-howards-with-authors-and-historians-joanne-paul-and-nicola-clark/)[](https://www.eventbrite.co.uk/e/tudor-times-presents-thomas-cromwell-the-rise-fall-an-evening-of-talks-tickets-1220945303269?aff=ebdsoporgprofile&_gl=1*1uo2nz0*_up*MQ..*_ga*MTgxNTM3MzM0My4xNzQyODk4NTM3*_ga_TQVES5V6SH*MTc0Mjg5ODUzNi4xLjAuMTc0Mjg5ODUzNi4wLjAuMA)
 
 \
-**Date:** Thursday 11 September - 6:30-9:30pm\
-**Venue:** Southwark Cathedral[](https://ckhh.org.uk/tudors-stuarts/details/thomas-more-life-and-death#Venue)
+**Date:** Thursday 29 January 3-4pm \
+**Venue:** ONLINE[](https://ckhh.org.uk/tudors-stuarts/details/thomas-more-life-and-death#Venue)
 
-Join us for an evening of talks delving into the fascinating life of Thomas Cromwell at Southwark Cathedral in partnership with [Tudor Times](https://tudortimes.co.uk/ "https\://tudortimes.co.uk/") the online repository for all things Tudor and Stewart (1485–1625).
+This one is for our history buffs out there! Join authors and historians Joanne Paul and Nicola Clark (both of whom we've hosted before!) as they discuss their books, "The House of Dudley" and "The Waiting Game: The Untold Story of the Women Who Served the Tudor Queens". "The House of Dudley" is the story of England's Borgias, a noble house competing for proximity to the throne through cunning, adultery and sheer audacity, revealing some of the period's most talented, intelligent and cunning individuals. "The Waiting Game" explores the daily lives of ladies-in-waiting, revealing the secrets of recruitment, costume, what they ate, where (and with whom) they slept. Where do their paths cross? Let's find out!
 
-Hear from three experts as they explore Cromwell's impact on British history. Each talk will be 40 minutes long followed by audience Q&A. This event will be taking place in the Cathedral library and is in-person only.
-
-Don't miss this unique opportunity to learn more about one of the most intriguing figures of the Tudor period.
-
-Book tickets [here](https://www.eventbrite.co.uk/e/tudor-times-presents-thomas-cromwell-the-rise-fall-an-evening-of-talks-tickets-1220945303269?aff=ebdsoporgprofile&_gl=1*1uo2nz0*_up*MQ..*_ga*MTgxNTM3MzM0My4xNzQyODk4NTM3*_ga_TQVES5V6SH*MTc0Mjg5ODUzNi4xLjAuMTc0Mjg5ODUzNi4wLjAuMA).
+Register [here](https://us06web.zoom.us/webinar/register/WN_VK7wiv-5QJ2Q2AKM7Jhcrg).
 
 - - -
 
-#### [Thomas More: Saint or Sinner?](https://www.gloucesterhistoryfestival.co.uk/events/thomas-more-saint-or-sinner/)
+#### [](https://www.ticketsource.co.uk/peterborough-cathedral-tours-talks/ka26-a-good-servant-of-the-queen-thomas-more-and-katherine-of-aragon/p-ddnwy)“A Good Servant of the Queen”: Thomas More and Katherine of Aragon
+
+#### **Katherine of Aragon Festival 2026**
 
 \
-**Date:** Wednesday 17 September - 12:00-1:00pm \
-**Venue:** Blackfriars Priory
+**Date:** Saturday 1 February noon-1pm \
+**Venue:** The Knights Chamber, Peterborough Cathedral *and* ONLINE 
 
-Henry VIII’s Lord Chancellor Thomas More is one of the most famous – or infamous – figures in English history. Worshipped as a saint, detested as a torturer, admired as a revolutionary, condemned as dogmatic. So is he a saintly scholar or the stubborn zealot famously portrayed in Hilary Mantel’s Wolf Hall? Join leading historian **Joanne Paul** to hear the story of the man who opposed Henry’s break from Rome, was executed in the Tower yet dominated England in the first half of the 16th century. 
+The lives and deaths of Thomas More and Katherine of Aragon appear inexorably intertwined. More’s first surviving letter detailed the Spanish Princess’s elaborate entrance into London to marry Prince Arthur. And his final, fatal stand against Henry VIII has long been seen as a defence of the marriage between Katherine and the king. But was More such a stalwart defender of Katherine as has long been perceived? Or did he too, in the end, abandon her?   \
+  \
+Join award-winning historian Dr Joanne Paul as she explores the complicated, influential, and occasionally treasonous relationship between the Queen of England and her Lord Chancellor, drawing on new research published in her latest book: Thomas More: A Life and Death in Tudor England.  
 
-*‘Paul Schofield, Hilary Mantel step aside, Joanne Paul’s fastidious biography restores More’s ideas and work to their full range of colour.*’ – *Helen Castor*
-
-Book tickets [here](https://www.gloucesterhistoryfestival.co.uk/events/thomas-more-saint-or-sinner/).
+Book in-person tickets [here](https://www.ticketsource.co.uk/peterborough-cathedral-tours-talks/ka26-online-a-good-servant-of-the-queen-thomas-more-and-katherine-of-aragon/p-ddnwy).\
+Register online [here](https://www.ticketsource.co.uk/peterborough-cathedral-tours-talks/ka26-online-a-good-servant-of-the-queen-thomas-more-and-katherine-of-aragon/p-ddnwy). 
 
 - - -
 
-#### [Thomas More: Conversation with Dr Owen Emmerson](https://www.hevercastle.co.uk/news/tickets-now-on-sale-for-the-history-festival/)
+#### [](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia)Discovering Thomas More’s *Utopia*[](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia)
 
 \
-**Date:** Saturday 20 September, 2:00-3:00pm \
-**Venue:** Hever Castle, Two Sisters' Theatre 
+**Date:** Tuesdays, 2 Feb-10 March 2/17-3/10\
+**Venue:** ONLINE 
 
-Saintly scholar, zealous persecutor, ambitious statesman – who was the ‘real’ Thomas More? Drawing on new archival research from her biography of More, Dr Joanne Paul will separate the man from the myth to discover the real Thomas More. Join us as we delve into the fascinating world of the sixteenth century to separate fact from fiction and uncover the enduring legacy of one of history’s most enigmatic and divisive figures.
+For over 500 years, Thomas More’s enigmatic text has inspired and mystified readers. Is it a blueprint for a new society, a manifesto for communism, an argument for liberalism or a portrait of authoritarianism? Or perhaps it is all one big joke played by More on his readers, then as now. To discover the truth, we must journey to More’s own time, to 16th century Europe, and the world that inspired *Utopia*.
 
-Book tickets [here](https://heverfestival.co.uk/index.php/performance-the-history-festival/).
+Join award-winning historian and broadcaster Dr Joanne Paul as she reveals the secrets of *Utopia*, buried deep within the text. From laughing at tyrants to contemplating skulls, this course will approach *Utopia* in all its complexity, hilarity, and morbidity.
 
-- - -
-
-#### [Thomas More: A Life and Death in Tudor England](https://warwickwords.co.uk/index.php/all-events-2025/135-wednesday-1-october-2025/537-joanne-paul)
-
-\
-**Date:** Wednesday 1 October, 10:30-11:30am\
-**Venue:** Castle Hill Baptist Church
-
-Saintly scholar, zealous persecutor, ambitious statesman – who was the ‘real’ Thomas More? 
-
-The hero of *A Man for All Seasons or the villain of Wolf Hall?*
-
-**Joanne Paul** recovers the living, breathing, complex historical individual who walked London’s streets, wrote Utopia, and daringly spoke truth to Henry VIII. 
-
-Drawing on new archival research from her biography of More, Joanne will explore the man and the myth. 
-
-Book tickets [here](https://warwickwords.co.uk/index.php/all-events-2025/135-wednesday-1-october-2025/537-joanne-paul).
+Register [here](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia).
