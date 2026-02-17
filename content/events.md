@@ -50,14 +50,12 @@ Register online [here](https://www.ticketsource.co.uk/peterborough-cathedral-tou
 
 - - -
 
-#### [](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia)Discovering Thomas More’s *Utopia*[](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia)
+#### Thomas More: Man, Myth, Mystery[](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia)
 
 \
-**Date:** Tuesdays, 2 Feb-10 March 2/17-3/10\
-**Venue:** ONLINE 
+**Date:** Thursday 19 March, 7:30pm \
+**Venue:** St Alban's Cathedral 
 
-For over 500 years, Thomas More’s enigmatic text has inspired and mystified readers. Is it a blueprint for a new society, a manifesto for communism, an argument for liberalism or a portrait of authoritarianism? Or perhaps it is all one big joke played by More on his readers, then as now. To discover the truth, we must journey to More’s own time, to 16th century Europe, and the world that inspired *Utopia*.
+Saintly scholar, zealous persecutor, ambitious statesman - who was the ‘real’ Thomas More? Neither the hero of *A Man For All Seasons* nor the villain of *Wolf Hall*, this talk recovers the living, breathing, complex historical individual who walked London’s streets, wrote *Utopia*, and daringly spoke truth to Henry VIII. Drawing on new archival research from her biography of More, Dr Joanne Paul will separate the man from the myth to discover the real Thomas More. Join us as we delve into the fascinating world of the sixteenth century to separate fact from fiction and uncover the enduring legacy of one of history's most enigmatic and divisive figures. 
 
-Join award-winning historian and broadcaster Dr Joanne Paul as she reveals the secrets of *Utopia*, buried deep within the text. From laughing at tyrants to contemplating skulls, this course will approach *Utopia* in all its complexity, hilarity, and morbidity.
-
-Register [here](https://roundtable.org/live-courses/history/discovering-thomas-mores-utopia).
+Tickets [here](https://www.stalbanscathedral.org/Event/thomas-more-man-myth-mystery).
